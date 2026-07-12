@@ -1,11 +1,675 @@
 {
+  "seo": {
+    "home": {
+      "title": "Wiki de Zombie Turret Farm - Códigos, Torres e Guia AFK",
+      "description": "Wiki de Zombie Turret Farm com códigos verificados, rankings de torres, caminhos de melhoria, layouts de base, dicas de renda AFK, ajuda para farm offline e notícias de atualização do Roblox.",
+      "keywords": "Zombie Turret Farm, Roblox, códigos, tier list, torres, farm AFK, melhorias, layout de base",
+      "ogTitle": "Wiki de Zombie Turret Farm - Códigos, Torres e Guia AFK",
+      "ogDescription": "Wiki de Zombie Turret Farm com códigos verificados, rankings de torres, caminhos de melhoria, layouts de base, dicas de renda AFK, ajuda para farm offline e notícias de atualização do Roblox.",
+      "twitterTitle": "Wiki de Zombie Turret Farm - Códigos, Torres e Guia AFK",
+      "twitterDescription": "A Wiki de Zombie Turret Farm traz códigos, rankings de torres, melhorias, layouts de base e dicas de farm AFK para o jogo no Roblox."
+    }
+  },
   "nav": {
-    "codes": "Codes",
-    "guide": "Guide",
-    "turrets": "Turrets",
-    "upgrades": "Upgrades",
-    "farming": "Farming",
+    "codes": "Códigos",
+    "guide": "Guia",
+    "turrets": "Torres",
+    "upgrades": "Melhorias",
+    "farming": "Farm",
     "layout": "Layout",
-    "updates": "Updates"
+    "updates": "Atualizações"
+  },
+  "common": {
+    "home": "Início",
+    "more": "Mais",
+    "playNow": "Jogar no Roblox",
+    "switchLanguage": "Mudar Idioma",
+    "switchTheme": "Mudar Tema",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Escuro",
+    "notFound": "Página Não Encontrada",
+    "notFoundDescription": "A página que você está procurando não existe.",
+    "backToHome": "Voltar ao Início",
+    "relatedArticles": "Artigos Relacionados",
+    "readMore": "Ler Mais",
+    "articlesComingSoon": "Artigos em breve"
+  },
+  "hero": {
+    "badge": "Simulador Idle de Torretas contra Zumbis",
+    "title": "Wiki de Zombie Turret Farm",
+    "description": "Construa um muro de torres automatizadas, derrote zumbis infinitos por dinheiro, melhore e expanda sua base, role torres mais fortes e continue ganhando enquanto estiver offline.",
+    "getFreeCodesCTA": "Ver Códigos e Recompensas",
+    "stats": {
+      "stat1": {
+        "value": "191.3K+",
+        "label": "Total de Visitas"
+      },
+      "stat2": {
+        "value": "1.3K",
+        "label": "Jogadores Online"
+      },
+      "stat3": {
+        "value": "966",
+        "label": "Favoritos"
+      },
+      "stat4": {
+        "value": "24/7",
+        "label": "Farm Offline"
+      }
+    },
+    "playOnRobloxCTA": "Jogar no Roblox"
+  },
+  "gameFeature": {
+    "title": "Jogabilidade de Zombie Turret Farm",
+    "description": "Posicione torres automáticas ao longo do muro da sua base, vença ondas de zumbis para ganhar dinheiro, melhore e expanda sua fazenda, consiga torres mais raras e continue ganhando renda enquanto estiver offline."
+  },
+  "tools": {
+    "title": "Zombie Turret Farm",
+    "titleHighlight": "Recursos",
+    "subtitle": "Tudo o que você precisa sobre códigos, torres, tier lists, melhorias, layouts de base, farm AFK e as últimas atualizações de Zombie Turret Farm.",
+    "cards": [
+      {
+        "icon": "ClipboardCheck",
+        "title": "Códigos de Zombie Turret Farm",
+        "description": "Códigos ativos, recompensa diária de pulo no tempo e etapas de resgate"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Guia para Iniciantes de Zombie Turret Farm",
+        "description": "Posicione torres, farme zumbis, melhore e expanda sua base"
+      },
+      {
+        "icon": "Star",
+        "title": "Tier List de Torres de Zombie Turret Farm",
+        "description": "Rankings S, A, B, C por dano, valor de farm e melhorias"
+      },
+      {
+        "icon": "Package",
+        "title": "Torres e Raridades de Zombie Turret Farm",
+        "description": "Coleção de torres, sorteios de raridade, melhorias e posicionamento"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Guia de Melhorias de Zombie Turret Farm",
+        "description": "Melhor ordem de melhoria para dano, renda e expansão"
+      },
+      {
+        "icon": "Home",
+        "title": "Melhor Layout de Base de Zombie Turret Farm",
+        "description": "Posicionamento de torres no muro, cobertura e padrões de expansão"
+      },
+      {
+        "icon": "Clock",
+        "title": "Farm AFK de Zombie Turret Farm",
+        "description": "Configuração offline, renda passiva e recompensas diárias de pulo no tempo"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Atualizações de Zombie Turret Farm",
+        "description": "Novas torres, mudanças de balanceamento, eventos e notas de atualização"
+      }
+    ]
+  },
+  "modules": {
+    "zombieTurretFarmCodes": {
+      "title": "Códigos e Recompensas Gratuitas de Zombie Turret Farm",
+      "eyebrow": "CÓDIGOS E RECOMPENSAS",
+      "subtitle": "Verifique o status atual dos códigos e resgate a recompensa verificada de pulo no tempo diário.",
+      "displayType": "code-cards",
+      "intro": "Atualmente, o Zombie Turret Farm não lista um sistema público de resgate de códigos em sua página oficial no Roblox. Os jogadores ainda podem desbloquear a recompensa oficial de pulo no tempo diário curtindo a experiência e entrando na comunidade BrainRot Zombies Inc.",
+      "items": [
+        {
+          "code": "Nenhum Código Público Ativo",
+          "status": "inativo",
+          "reward": "Nenhuma recompensa baseada em códigos foi listada pelo desenvolvedor no momento.",
+          "instructions": [
+            "Abra a página oficial de Zombie Turret Farm no Roblox.",
+            "Verifique a descrição do jogo e os menus internos após grandes atualizações.",
+            "Use apenas códigos anunciados pela BrainRot Zombies Inc."
+          ]
+        },
+        {
+          "code": "Avanço de Tempo Diário",
+          "status": "disponível",
+          "reward": "Um avanço de tempo diário para a progressão de farm do jogo.",
+          "instructions": [
+            "Curta Zombie Turret Farm no Roblox.",
+            "Entre na comunidade da BrainRot Zombies Inc no Roblox.",
+            "Entre no jogo após concluir ambos os requisitos."
+          ]
+        }
+      ]
+    },
+    "zombieTurretFarmBeginnerGuide": {
+      "title": "Guia de Iniciante de Zombie Turret Farm",
+      "eyebrow": "COMECE AQUI",
+      "subtitle": "Construa sua primeira parede de torretas, ganhe dinheiro com os zumbis e expanda sem desacelerar sua progressão.",
+      "displayType": "passos",
+      "intro": "O ciclo principal é simples: posicione torretas, derrote os zumbis que se aproximam, colete os lucros e reinvista em defesas mais fortes. As torretas continuam farmando enquanto você está desconectado, então uma parede equilibrada de unidades melhoradas garante progresso tanto ativo quanto offline.",
+      "steps": [
+        {
+          "title": "Posicione Suas Primeiras Torretas",
+          "description": "Preencha as posições de parede disponíveis com suas torretas iniciais para que cada espaço aberto possa atacar a rota dos zumbis.",
+          "tip": "Um espaço ocupado na parede oferece mais valor de farm imediato do que deixar a posição vazia."
+        },
+        {
+          "title": "Farme os Zumbis que se Aproximam",
+          "description": "Deixe suas torretas atacarem automaticamente a horda de zumbis e transformarem inimigos derrotados em lucros para gastar.",
+          "tip": "Permaneça no jogo durante a fase inicial para poder reinvestir os primeiros ganhos rapidamente."
+        },
+        {
+          "title": "Melhore sua Formação Atual",
+          "description": "Gaste parte da sua renda melhorando as torretas que já estão causando dano em vez de depender apenas de novos giros.",
+          "tip": "Melhore primeiro a torreta que cobre a seção mais fraca da parede."
+        },
+        {
+          "title": "Gire para Obter Torretas Mais Fortes",
+          "description": "Use o sistema de giros de torreta para obter opções mais raras e fortes para sua parede defensiva.",
+          "tip": "Mantenha as torretas produtivas no lugar até que um novo giro melhore claramente o espaço."
+        },
+        {
+          "title": "Expanda a Base",
+          "description": "Compre a expansão da base quando sua parede existente estiver estável e as posições adicionais de torretas aumentarem a velocidade total de farm.",
+          "tip": "Não gaste cada moeda em giros repetidos quando uma expansão pode adicionar outra fonte de dano permanente."
+        },
+        {
+          "title": "Prepare-se para o Farm Offline",
+          "description": "Deixe suas torretas disponíveis mais fortes posicionadas e melhoradas antes de sair, pois elas continuam farmando enquanto você estiver offline.",
+          "tip": "Use a recompensa de avanço de tempo diário após se juntar à comunidade oficial de desenvolvedores."
+        }
+      ]
+    },
+    "zombieTurretFarmTurretTierList": {
+      "title": "Tier List de Torretas de Zombie Turret Farm",
+      "eyebrow": "RANKING DAS TORRETAS",
+      "subtitle": "Classifique seus giros de torreta por raridade, investimento em melhorias e o valor delas em um espaço de parede limitado.",
+      "displayType": "tier-grid",
+      "intro": "Zombie Turret Farm vincula diretamente a raridade da torreta com a força, enquanto as melhorias aumentam o valor das torretas já posicionadas na base. Esta tier list de progressão classifica os perfis de torreta pela eficiência com que apoiam o farm ativo, a expansão e a renda offline.",
+      "tiers": [
+        {
+          "tier": "S",
+          "label": "Melhor",
+          "name": "Torretas de Maior Raridade Totalmente Melhoradas",
+          "damage": "Excelente",
+          "farming": "Excelente",
+          "upgrades": "Excelente",
+          "bestUse": "Posicionamento permanente nos espaços de parede mais valiosos.",
+          "priority": "Mantenha, melhore e substitua apenas por um giro claramente mais forte."
+        },
+        {
+          "tier": "A",
+          "label": "Forte",
+          "name": "Torres de Alta Raridade",
+          "damage": "Alta",
+          "farming": "Alta",
+          "upgrades": "Alta",
+          "bestUse": "Farm de meio de jogo e preparação para expansões maiores da base.",
+          "priority": "Melhore após identificar o principal gargalo de dano."
+        },
+        {
+          "tier": "B",
+          "label": "Útil",
+          "name": "Torres de Início de Jogo Melhoradas",
+          "damage": "Moderada",
+          "farming": "Moderada",
+          "upgrades": "Bom valor inicial",
+          "bestUse": "Preenchendo a parede enquanto economiza para giros e expansões mais fortes.",
+          "priority": "Mantenha até que uma torre mais rara esteja pronta para ocupar o espaço."
+        },
+        {
+          "tier": "C",
+          "label": "Substituir",
+          "name": "Giros Iniciais sem Melhoria",
+          "damage": "Baixa",
+          "farming": "Baixa",
+          "upgrades": "Valor limitado a longo prazo",
+          "bestUse": "Cobertura temporária para posições de parede vazias.",
+          "priority": "Substitua após obter alternativas mais fortes ou mais melhoradas."
+        }
+      ]
+    },
+    "zombieTurretFarmTurretsAndRarities": {
+      "title": "Torres e Raridades de Zombie Turret Farm",
+      "eyebrow": "COLEÇÃO DE TORRES",
+      "subtitle": "Entenda como os giros de torres, raridade, melhorias e posicionamento na parede afetam seu poder de farm.",
+      "displayType": "card-list",
+      "intro": "As torres são obtidas através do sistema de giros do jogo e posicionadas ao longo da parede da base para farmar zumbis automaticamente. Giros mais raros oferecem opções de torres mais fortes, enquanto melhorias e espaço adicional na parede aumentam o valor da sua linha completa.",
+      "items": [
+        {
+          "name": "Giros de Torres Iniciais",
+          "category": "Progressão Inicial",
+          "strength": "Básica",
+          "obtainedFrom": "O sistema de giro de torres",
+          "bestUse": "Preencha espaços vazios na parede e comece a gerar renda imediatamente.",
+          "spendingRule": "Use-as como unidades de farm temporárias enquanto acumula renda suficiente para melhorias e giros adicionais."
+        },
+        {
+          "name": "Giros de Torres Mais Raros",
+          "category": "Melhoria de Coleção",
+          "strength": "Mais Forte",
+          "obtainedFrom": "Giros bem-sucedidos de torretas de maior raridade",
+          "bestUse": "Substitua torretas mais fracas em posições limitadas da muralha.",
+          "spendingRule": "Gire quando o resto da base puder continuar farmando sem atrasar uma melhoria ou expansão importante."
+        },
+        {
+          "name": "Torretas Aprimoradas",
+          "category": "Melhoria de Poder",
+          "strength": "Aprimorado",
+          "obtainedFrom": "Investir os ganhos em uma torreta já posicionada",
+          "bestUse": "Aumente o rendimento do farm sem esperar por um giro melhor.",
+          "spendingRule": "Priorize torretas que já ocupam espaços de longo prazo na muralha."
+        },
+        {
+          "name": "Formação de Farm Offline",
+          "category": "Renda Passiva",
+          "strength": "Com base na formação posicionada",
+          "obtainedFrom": "Deixar torretas aprimoradas ativas na base",
+          "bestUse": "Continue farmando zumbis enquanto estiver desconectado.",
+          "spendingRule": "Aprimore e organize a formação mais forte disponível antes de encerrar uma sessão de jogo."
+        },
+        {
+          "name": "Muralha de Torretas Expandida",
+          "category": "Expansão da Base",
+          "strength": "Maior capacidade total de dano",
+          "obtainedFrom": "Comprar espaço adicional para a base",
+          "bestUse": "Adicione mais ataques de torreta simultâneos contra a rota de zumbis.",
+          "spendingRule": "Expanda quando outro espaço de torreta fornecer mais valor do que substituir repetidamente uma unidade que já é funcional."
+        }
+      ]
+    },
+    "zombieTurretFarmUpgradeGuide": {
+      "title": "Melhor Ordem de Melhoria de Zombie Turret Farm",
+      "eyebrow": "GUIA DE PROGRESSÃO",
+      "subtitle": "Siga um caminho de melhoria equilibrado que melhore a eliminação de zumbis, a geração de renda e a progressão a longo prazo.",
+      "displayType": "upgrade-path",
+      "intro": "A progressão de Zombie Turret Farm é baseada em posicionar torretas, melhorar suas defesas, expandir a base e girar torretas mais raras. A abordagem mais segura é construir uma muralha de torretas confiável primeiro, fortalecê-la e só então gastar muito em expansão ou giros de raridade.",
+      "steps": [
+        {
+          "step": 1,
+          "name": "Construa a Muralha de Torretas Inicial",
+          "priority": "Altíssima",
+          "value": "Essencial",
+          "recommendation": "Use seus primeiros recursos para posicionar torretas suficientes para criar uma muralha defensiva funcional e começar a lucrar com os zumbis derrotados.",
+          "reason": "As torretas são a fonte principal de dano e renda de farm."
+        },
+        {
+          "step": 2,
+          "name": "Aprimore as Torretas Existentes",
+          "priority": "Alta",
+          "value": "Consistente",
+          "recommendation": "Melhore as torretas que já estão contribuindo para o seu farm antes de gastar repetidamente moedas em giros aleatórios de raridade.",
+          "reason": "Melhorias confiáveis fortalecem imediatamente a base ativa em vez de depender de um resultado aleatório."
+        },
+        {
+          "step": 3,
+          "name": "Expanda a Base Gradualmente",
+          "priority": "Média",
+          "value": "Longo Prazo",
+          "recommendation": "Compre expansões de base quando tiver recursos suficientes para usar o espaço recém-disponível sem enfraquecer sua muralha de torretas atual.",
+          "reason": "---"
+        },
+        {
+          "step": 4,
+          "name": "A expansão cria mais espaço para progressão, mas espaços vazios não aumentam o poder de farm.",
+          "priority": "Gire para obter Torres Mais Raras",
+          "value": "Médio",
+          "recommendation": "Alto Potencial",
+          "reason": "Use o sistema de giro de torres após sua estrutura básica estar estável. Substitua as torres mais fracas quando obtiver alternativas mais raras e fortes."
+        },
+        {
+          "step": 5,
+          "name": "O jogo identifica torres de maior raridade como mais fortes, mas os giros não devem interromper o desenvolvimento inicial da base.",
+          "priority": "Resgate o Pulo de Tempo Diário",
+          "value": "Diário",
+          "recommendation": "Progresso Grátis",
+          "reason": "Curta a experiência no Roblox e entre na comunidade BrainRot Zombies Inc para acessar a recompensa diária de pulo de tempo."
+        }
+      ]
+    },
+    "zombieTurretFarmBestBaseLayout": {
+      "title": "A recompensa adiciona progressão sem exigir outra sessão de farm normal.",
+      "eyebrow": "Melhores Layouts de Base de Zombie Turret Farm",
+      "subtitle": "CONSTRUÇÃO DE BASE",
+      "displayType": "Organize seu muro de torres em torno de uma cobertura consistente, melhorias eficientes e expansão controlada.",
+      "intro": "layout-cards",
+      "layouts": [
+        {
+          "name": "O jogo gira em torno de construir um muro de torres que farma automaticamente os zumbis que chegam. Um layout útil mantém os espaços de torres ativos preenchidos, concentra as melhorias em defesas produtivas e evita expandir mais rápido do que sua renda pode sustentar.",
+          "bestFor": "Muro de Torres Inicial",
+          "setup": "Novos jogadores",
+          "upgradeFocus": "Crie um grupo contínuo de torres cobrindo a rota dos zumbis em vez de deixar grandes lacunas entre as defesas ativas.",
+          "nextStep": "Fortaleça as torres que já estão causando dano antes de aumentar o tamanho da base."
+        },
+        {
+          "name": "Comece a girar para obter substituições mais fortes depois que o muro produzir uma renda estável.",
+          "bestFor": "Layout de Expansão Equilibrada",
+          "setup": "Progressão de meio de jogo",
+          "upgradeFocus": "Expanda a base uma seção por vez e coloque as torres no novo espaço utilizável antes de comprar outra expansão.",
+          "nextStep": "Mantenha o grupo original de torres melhoradas ativo enquanto adiciona novas torres ao redor dele."
+        },
+        {
+          "name": "Substitua torres mais fracas por giros mais raros sem remover muito dano ativo de uma só vez.",
+          "bestFor": "Layout de Farm AFK",
+          "setup": "Renda offline",
+          "upgradeFocus": "Preencha os espaços úteis disponíveis com sua configuração de torres mais forte e complete as melhorias antes de sair.",
+          "nextStep": "Priorize um poder de farm geral estável em vez de economizar toda a moeda para giros futuros."
+        },
+        {
+          "name": "Colete os ganhos offline ao retornar, depois melhore, expanda ou gire antes da próxima sessão AFK.",
+          "bestFor": "Erros de Layout a Evitar",
+          "setup": "Todos os estágios de progressão",
+          "upgradeFocus": "Evite comprar expansões enquanto deixa espaços anteriores sem uso, mantendo torres mais fortes guardadas ou gastando cada moeda em giros de raridade antes de construir um muro funcional.",
+          "nextStep": "Não espalhe sua moeda em compras desnecessárias quando um grupo de torres confiável pode ser melhorado primeiro."
+        }
+      ]
+    },
+    "zombieTurretFarmAFKFarmingGuide": {
+      "title": "Revise o layout após cada expansão importante ou giro de torre mais forte.",
+      "eyebrow": "Farm AFK e Offline em Zombie Turret Farm",
+      "subtitle": "PROGRESSO OFFLINE",
+      "displayType": "Prepare seu muro de torres antes de sair para que a base possa continuar gerando progresso útil enquanto você estiver offline.",
+      "intro": "O Zombie Turret Farm oficialmente suporta o farm offline, o que significa que as torres posicionadas continuam funcionando após você sair. A melhor rotina offline é gastar os recursos disponíveis, equipar torres mais fortes e resgatar o salto de tempo diário sempre que estiver disponível.",
+      "methods": [
+        {
+          "method": "Farm Offline Normal",
+          "requirement": "Posicione torres e saia do jogo",
+          "benefit": "Sua fazenda de torres continua operando enquanto você está desconectado.",
+          "bestUse": "Intervalos regulares, escola, trabalho ou progressão durante a noite.",
+          "preparation": "Posicione suas torres disponíveis mais fortes e gaste a moeda de melhoria útil antes de sair."
+        },
+        {
+          "method": "Configuração Offline Melhorada",
+          "requirement": "Melhore a muralha de torres ativa antes de sair",
+          "benefit": "Inicia o período offline com uma base de trabalho mais forte.",
+          "bestUse": "Jogadores com moeda guardada e uma muralha de torres estabelecida.",
+          "preparation": "Melhore as defesas existentes antes de comprar outra expansão de base vazia."
+        },
+        {
+          "method": "Configuração Focada em Raridade",
+          "requirement": "Gire e posicione torres mais raras e fortes",
+          "benefit": "Substitui partes mais fracas da fazenda por opções de torres mais fortes.",
+          "bestUse": "Jogadores cuja base básica e progressão de melhorias já estão estáveis.",
+          "preparation": "Posicione os giros bem-sucedidos imediatamente em vez de deixar torres mais fortes sem uso."
+        },
+        {
+          "method": "Salto de Tempo Diário",
+          "requirement": "Curta o jogo e entre na comunidade da BrainRot Zombies Inc",
+          "benefit": "Oferece uma recompensa de progressão diária adicional conectada ao farm offline.",
+          "bestUse": "Todos os jogadores ativos.",
+          "preparation": "Complete os requisitos da comunidade e resgate a recompensa quando disponível."
+        },
+        {
+          "method": "Ciclo de Retorno e Reinvestimento",
+          "requirement": "Retorne após uma sessão offline e colete o progresso resultante",
+          "benefit": "Transforma os ganhos offline em torres mais fortes, melhorias, expansões ou novos giros de raridade.",
+          "bestUse": "Mantendo um crescimento contínuo a longo prazo.",
+          "preparation": "Reinvista antes de iniciar outro período de farm offline."
+        }
+      ]
+    },
+    "zombieTurretFarmUpdates": {
+      "title": "Últimas Mudanças e Recursos do Zombie Turret Farm",
+      "eyebrow": "ATUALIZAÇÕES DO JOGO",
+      "subtitle": "Revise os sistemas de lançamento confirmados, recursos de progressão, recompensas offline e avisos dos desenvolvedores.",
+      "displayType": "linha do tempo",
+      "intro": "Zombie Turret Farm é um novo lançamento no Roblox da BrainRot Zombies Inc. Sua versão atual foca em farm automatizado de zumbis, melhorias de torres, expansão de base, giros de raridade, progressão offline e uma recompensa diária baseada na comunidade.",
+      "entries": [
+        {
+          "stage": "Recurso de Lançamento",
+          "title": "Farm de Zumbis Automatizado",
+          "summary": "Os jogadores posicionam torres que atacam os zumbis que chegam e convertem o farm bem-sucedido em lucro.",
+          "changes": [
+            "O posicionamento de torres é a mecânica central de jogabilidade.",
+            "A base é projetada em torno da construção de uma muralha de defesas automatizadas.",
+            "Derrotar zumbis sustenta a progressão contínua."
+          ]
+        },
+        {
+          "stage": "Recurso de Lançamento",
+          "title": "Melhorias e Expansão da Base",
+          "summary": "O sistema de progressão permite que os jogadores melhorem sua configuração e expandam o tamanho de sua base.",
+          "changes": [
+            "As defesas existentes podem ser melhoradas através de upgrades de progressão.",
+            "A expansão da base oferece espaço adicional para desenvolvimento.",
+            "Os jogadores podem reinvestir os lucros da fazenda em estruturas mais fortes."
+          ]
+        },
+        {
+          "stage": "Recurso de Lançamento",
+          "title": "Sorteios de Raridade de Torres",
+          "summary": "Os jogadores podem tentar a sorte para conseguir variantes de torres mais raras que são identificadas como mais fortes que as opções básicas.",
+          "changes": [
+            "As torres são obtidas através de um sistema de sorteio baseado em raridade.",
+            "Resultados mais raros oferecem opções de torres mais fortes.",
+            "Novos sorteios podem ser usados para substituir partes mais fracas da base."
+          ]
+        },
+        {
+          "stage": "Recurso de Lançamento",
+          "title": "Fazenda de Torres Offline",
+          "summary": "As torres posicionadas continuam farmando depois que o jogador sai da experiência.",
+          "changes": [
+            "O progresso pode continuar entre as sessões ativas.",
+            "Os jogadores podem preparar a base antes de sair.",
+            "Os lucros obtidos ao retornar podem ser reinvestidos em upgrades, expansão ou sorteios."
+          ]
+        },
+        {
+          "stage": "Recompensa Atual",
+          "title": "Avanço de Tempo Diário",
+          "summary": "Os jogadores podem desbloquear um avanço de tempo diário curtindo a experiência e entrando na comunidade de desenvolvedores.",
+          "changes": [
+            "A recompensa está conectada à comunidade oficial da BrainRot Zombies Inc.",
+            "Ela pode ser adicionada à rotina normal de progressão offline.",
+            "Os jogadores devem verificar a experiência regularmente para resgatar o benefício diário."
+          ]
+        },
+        {
+          "stage": "Aviso do Desenvolvedor",
+          "title": "Monitoramento de Bugs de Lançamento Recente",
+          "summary": "A descrição oficial do jogo identifica Zombie Turret Farm como um lançamento recente e observa que os jogadores podem encontrar bugs ocasionais.",
+          "changes": [
+            "A experiência ainda está em seu período inicial de lançamento.",
+            "Os sistemas de jogabilidade podem receber correções e ajustes.",
+            "A experiência oficial do Roblox e a comunidade de desenvolvedores são os canais primários de atualização."
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Perguntas",
+    "titleHighlight": "Frequentes",
+    "subtitle": "Tudo o que você precisa saber sobre Zombie Turret Farm",
+    "questions": [
+      {
+        "question": "O que é Zombie Turret Farm?",
+        "answer": "Zombie Turret Farm é um jogo de idle turret defense no Roblox onde você posiciona torres ao longo da muralha de uma base, derrota hordas de zumbis para ganhar dinheiro, melhora e expande sua fazenda, sorteia torres mais raras e continua lucrando enquanto estiver offline."
+      },
+      {
+        "question": "Existem códigos ativos de Zombie Turret Farm?",
+        "answer": "Zombie Turret Farm não lista atualmente um sistema público de resgate de códigos em sua página oficial do Roblox. Os jogadores ainda podem desbloquear a recompensa oficial de avanço de tempo diário curtindo a experiência e entrando na comunidade BrainRot Zombies Inc."
+      },
+      {
+        "question": "O Zombie Turret Farm continua farmando enquanto você está offline?",
+        "answer": "Sim. As torres posicionadas continuam farmando zumbis depois que você sai do jogo, então melhorar sua muralha de torres mais fortes antes de sair aumenta seus lucros offline."
+      },
+      {
+        "question": "Como funcionam os sorteios e raridades de torres em Zombie Turret Farm?",
+        "answer": "As torres são obtidas através do sistema de sorteio do jogo e posicionadas ao longo da muralha da base. Sorteios mais raros oferecem opções de torres mais fortes, enquanto os upgrades aumentam o valor das torres que já estão na sua fileira."
+      },
+      {
+        "question": "Quem desenvolveu Zombie Turret Farm?",
+        "answer": "Zombie Turret Farm é desenvolvido pela BrainRot Zombies Inc e está disponível para jogar de graça no Roblox."
+      },
+      {
+        "question": "---",
+        "answer": "Qual é a melhor forma de progredir no Zombie Turret Farm?"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Construa primeiro uma parede de torres confiável, melhore as torres que já causam dano, expanda a base gradualmente, depois tente a sorte para obter torres mais raras e resgate a recompensa diária de avanço de tempo.",
+    "description": "Pronto para defender sua base?",
+    "joinCommunity": "Entre no grupo do Roblox para guias, códigos, atualizações e discussões sobre construção de base do Zombie Turret Farm!",
+    "joinGame": "Entrar no grupo do Roblox"
+  },
+  "footer": {
+    "title": "Jogar no Roblox",
+    "description": "Wiki do Zombie Turret Farm",
+    "resources": "Sua central completa de recursos para códigos, torres, tier lists, melhorias, layouts de base e guias de farm AFK do Zombie Turret Farm.",
+    "community": "Recursos",
+    "legal": "Comunidade",
+    "about": "Jurídico",
+    "privacy": "Sobre",
+    "terms": "Política de Privacidade",
+    "copyrightNotice": "Termos de Serviço",
+    "copyright": "Direitos Autorais",
+    "disclaimer": "© 2026 Wiki do Zombie Turret Farm. Não afiliado aos desenvolvedores do Zombie Turret Farm.",
+    "robloxGame": "Site de recursos não oficial feito por fãs.",
+    "robloxGroup": "Jogo no Roblox",
+    "youtube": "Grupo no Roblox"
+  },
+  "pages": {
+    "codes": {
+      "title": "Gameplay no YouTube",
+      "description": "Códigos do Zombie Turret Farm",
+      "metaTitle": "Últimos códigos do Zombie Turret Farm, recompensas diárias de avanço de tempo e passos para resgate. Confira as recompensas ativas e resgate seus bônus.",
+      "metaDescription": "Códigos do Zombie Turret Farm - Recompensas Grátis e Avanço de Tempo Diário",
+      "categoryLabel": "Resgate os códigos mais recentes do Zombie Turret Farm, recompensas diárias de avanço de tempo e bônus grátis. Passos de resgate atualizados e status de recompensas ativas.",
+      "whatIs": "RESGATAR CÓDIGOS",
+      "whatIsDescription": "O que são os códigos do Zombie Turret Farm?",
+      "why": "Códigos e recompensas diárias no Zombie Turret Farm concedem bônus de progressão gratuitos, incluindo o avanço de tempo diário que adianta sua renda de farm. Resgate-os para acelerar as melhorias das torres, a expansão da base e os ganhos offline.",
+      "whySteps": {
+        "step1Title": "Por que usar esses códigos?",
+        "step1Description": "Resgate progressão gratuita",
+        "step2Title": "Recompensas ativas adicionam progressão instantânea sem gastar suas moedas farmadas nas mesmas melhorias.",
+        "step2Description": "Avanço de Tempo Diário",
+        "step3Title": "A recompensa diária de avanço de tempo adianta seu farm offline, dando a você uma vantagem inicial todos os dias.",
+        "step3Description": "Passos de Resgate Verificados"
+      },
+      "featured": "Siga os passos confirmados para desbloquear cada recompensa diretamente da experiência oficial no Roblox.",
+      "all": "Códigos e Recompensas em Destaque"
+    },
+    "guide": {
+      "title": "Todos os Códigos e Recompensas",
+      "description": "Guias do Zombie Turret Farm",
+      "metaTitle": "Guias completos do Zombie Turret Farm para iniciantes e profissionais. Aprenda o ciclo principal, posicione torres, farme zumbis, melhore e expanda sua base.",
+      "metaDescription": "Guias do Zombie Turret Farm - Iniciante, Progressão e Dicas",
+      "categoryLabel": "---",
+      "whatIs": "GUIAS",
+      "whatIsDescription": "O que são os Guias de Zombie Turret Farm?",
+      "why": "Os guias orientam você pelo ciclo principal de Zombie Turret Farm: posicionar torres na muralha da base, derrotar zumbis por dinheiro, melhorar defesas, girar torres raras e expandir sua fazenda para renda ativa e offline.",
+      "whySteps": {
+        "step1Title": "Por que ler estes guias?",
+        "step1Description": "Aprenda o Ciclo Principal",
+        "step2Title": "Entenda como torres, dinheiro, melhorias e expansão se conectam em um único ciclo de farming.",
+        "step2Description": "Progrida Mais Rápido",
+        "step3Title": "Siga um caminho claro desde sua primeira torre até uma base estável e de alta renda.",
+        "step3Description": "Evite Erros Comuns"
+      },
+      "featured": "Evite gastos inúteis em giros e expansões antes que sua muralha de torres esteja pronta.",
+      "all": "Guias em Destaque"
+    },
+    "turrets": {
+      "title": "Todos os Guias",
+      "description": "Torres de Zombie Turret Farm",
+      "metaTitle": "Cada torre de Zombie Turret Farm com estatísticas, raridades, habilidades e caminhos de desbloqueio. Compare torres e construa a muralha mais forte.",
+      "metaDescription": "Torres de Zombie Turret Farm - Atributos, Raridades e Tier List",
+      "categoryLabel": "Explore todas as torres de Zombie Turret Farm com estatísticas de dano, raridades, habilidades e a melhor tier list de torres para construir sua muralha defensiva.",
+      "whatIs": "TORRES",
+      "whatIsDescription": "O que são Torres?",
+      "why": "Torres são as defesas automatizadas que você posiciona na muralha da base para farmar zumbis. Cada torre tem sua própria raridade, estilo de ataque, dano e caminho de desbloqueio, e giros mais raros geram opções mais fortes.",
+      "whySteps": {
+        "step1Title": "Por que estudar as torres?",
+        "step1Description": "Conheça suas Opções",
+        "step2Title": "Compare os atributos, raridade e habilidades de cada torre antes de ocupar espaço na muralha.",
+        "step2Description": "Construa uma Muralha Mais Forte",
+        "step3Title": "Posicione as torres certas nos espaços certos para maximizar a eliminação de zumbis e a renda.",
+        "step3Description": "Planeje seus Giros"
+      },
+      "featured": "Entenda as raridades para saber quais giros valem a pena manter e melhorar.",
+      "all": "Guias de Torres em Destaque"
+    },
+    "upgrades": {
+      "title": "Todos os Guias de Torres",
+      "description": "Melhorias de Zombie Turret Farm",
+      "metaTitle": "Melhor ordem de melhorias de Zombie Turret Farm para dano, renda, upgrades de torres e expansão da base. Gaste moedas de forma eficiente em cada estágio.",
+      "metaDescription": "Melhorias de Zombie Turret Farm - Melhor Ordem e Upgrades de Base",
+      "categoryLabel": "Encontre a melhor ordem de melhorias de Zombie Turret Farm para dano de torres, renda e expansão da base. Gaste suas moedas de forma eficiente em cada estágio de progressão.",
+      "whatIs": "UPGRADES",
+      "whatIsDescription": "O que são Melhorias?",
+      "why": "As melhorias permitem que você invista suas moedas farmadas em dano de torre, velocidade de ataque, renda e capacidade da base. Uma ordem inteligente de melhorias mantém sua muralha de torres evoluindo do início ao fim do jogo.",
+      "whySteps": {
+        "step1Title": "Por que seguir uma ordem de melhorias?",
+        "step1Description": "Gaste Moedas com Eficiência",
+        "step2Title": "Priorize as melhorias que adicionam mais dano e renda no seu estágio atual.",
+        "step2Description": "Aumente sua Renda",
+        "step3Title": "Expanda no Momento Certo",
+        "step3Description": "Desbloqueie expansões da base apenas quando sua muralha existente puder suportar o novo espaço."
+      },
+      "featured": "Guias de Upgrade em Destaque",
+      "all": "Todos os Guias de Upgrade"
+    },
+    "farming": {
+      "title": "Farming em Zombie Turret Farm",
+      "description": "Guias de farming de Zombie Turret Farm para moedas, renda AFK, ganhos offline e recompensas diárias. Construa uma base que lucra enquanto você estiver fora.",
+      "metaTitle": "Farming em Zombie Turret Farm - AFK, Offline e Moedas Rápidas",
+      "metaDescription": "Domine o farming em Zombie Turret Farm com configurações AFK, ganhos offline, a maneira mais rápida de conseguir moedas e recompensas diárias de pulo de tempo.",
+      "categoryLabel": "FARMING",
+      "whatIs": "O Que É Farming?",
+      "whatIsDescription": "O farming em Zombie Turret Farm é como você transforma zumbis derrotados em moedas. Com a configuração certa de torres, sua base continua farmando mesmo quando você está offline, fazendo com que o jogo ativo e a renda AFK funcionem juntos.",
+      "why": "Por Que Otimizar o Farming?",
+      "whySteps": {
+        "step1Title": "Ganhe Moedas Mais Rápido",
+        "step1Description": "Use a melhor estratégia de farming para maximizar as moedas de cada onda de zumbis.",
+        "step2Title": "Farme Enquanto Estiver Offline",
+        "step2Description": "Prepare sua muralha de torres antes de sair para que ela continue gerando renda.",
+        "step3Title": "Resgate Recompensas Diárias",
+        "step3Description": "Use o pulo de tempo diário e outras recompensas gratuitas para acelerar seu progresso."
+      },
+      "featured": "Guias de Farming em Destaque",
+      "all": "Todos os Guias de Farming"
+    },
+    "layout": {
+      "title": "Layouts de Base de Zombie Turret Farm",
+      "description": "Melhores layouts de base de Zombie Turret Farm para início, meio e fim de jogo. Posicionamento da muralha de torres, cobertura e padrões de expansão.",
+      "metaTitle": "Layouts de Base de Zombie Turret Farm - Melhor Configuração de Muralha de Torres",
+      "metaDescription": "Construa o melhor layout de base de Zombie Turret Farm com posicionamento de muralha de torres, configuração de defesa e padrões de expansão para cada fase do jogo.",
+      "categoryLabel": "LAYOUTS DE BASE",
+      "whatIs": "O Que São Layouts de Base?",
+      "whatIsDescription": "Os layouts de base definem como você posiciona torres, muralhas e expansões pela sua fazenda. Um bom layout preenche cada espaço útil, concentra os upgrades nas torres produtivas e só expande quando a renda puder suportar.",
+      "why": "Por Que Planejar Seu Layout?",
+      "whySteps": {
+        "step1Title": "Maximize a Cobertura",
+        "step1Description": "Posicione as torres para que todos os zumbis sejam atingidos e nenhum espaço de muralha seja desperdiçado.",
+        "step2Title": "Evolua com a Sua Base",
+        "step2Description": "Escolha um layout de início, meio ou fim de jogo que combine com a sua progressão.",
+        "step3Title": "Expanda Sem Desacelerar",
+        "step3Description": "Adicione novos espaços apenas quando sua muralha de torres puder preenchê-los e defendê-los."
+      },
+      "featured": "Guias de Layout em Destaque",
+      "all": "Todos os Guias de Layout"
+    },
+    "updates": {
+      "title": "Atualizações de Zombie Turret Farm",
+      "description": "Últimas atualizações de Zombie Turret Farm, notas de atualização, novas torres, mudanças de balanceamento e informações de lançamento. Acompanhe cada mudança de versão.",
+      "metaTitle": "Atualizações de Zombie Turret Farm - Notas de Atualização e Novas Torres",
+      "metaDescription": "Mantenha-se atualizado com as atualizações de Zombie Turret Farm, notas de atualização, novas torres, mudanças de balanceamento e as informações mais recentes de lançamento de versão.",
+      "categoryLabel": "ATUALIZAÇÕES",
+      "whatIs": "O Que São Atualizações?",
+      "whatIsDescription": "As atualizações abrangem todas as mudanças no Zombie Turret Farm: novas torres, ajustes de balanceamento, correções de bugs e anúncios oficiais. Acompanhar as atualizações ajuda você a adaptar sua muralha de torres e sua estratégia de farm.",
+      "why": "Por Que Acompanhar as Atualizações?",
+      "whySteps": {
+        "step1Title": "Consiga Novas Torres",
+        "step1Description": "Saiba quais novas torres e raridades chegam em cada atualização.",
+        "step2Title": "Adapte-se às Mudanças de Balanceamento",
+        "step2Description": "Ajuste sua ordem de melhoria e o layout quando os atributos e mecânicas mudarem.",
+        "step3Title": "Mantenha-se Informado",
+        "step3Description": "Leia notas de atualização organizadas para nunca perder uma correção ou recurso importante."
+      },
+      "featured": "Guias de Atualização em Destaque",
+      "all": "Todos os Guias de Atualização"
+    }
   }
 }
