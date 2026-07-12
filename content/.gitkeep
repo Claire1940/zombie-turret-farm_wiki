@@ -1,0 +1,4 @@
+# 此目录用于存放 MDX 内容文件（按 locale/contentType 组织）。
+# game-refactor 多 part 重构期间，Part3 清空旧模板内容后保留此占位文件，
+# 以保证 content/ 目录被 git 追踪、构建期 generate-content-manifest.mjs 能正常枚举。
+# 后续 part 会在此目录下创建 content/<locale>/<contentType>/*.mdx 文章。
