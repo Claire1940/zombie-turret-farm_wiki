@@ -4,12 +4,13 @@ import { MetadataRoute } from 'next'
 export const dynamic = 'force-static'
 
 export default function robots(): MetadataRoute.Robots {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.lucidblocks.wiki'
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.zombie-turret-farm.wiki'
 
   return {
     rules: {
       userAgent: '*',
       allow: '/',
+      disallow: ['/privacy-policy', '/terms-of-service', '/copyright', '/about'],
     },
     sitemap: `${baseUrl}/sitemap.xml`,
   }
