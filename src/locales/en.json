@@ -10,14 +10,7 @@
       "twitterDescription": "Zombie Turret Farm Wiki covers codes, turret rankings, upgrades, base layouts, and AFK farming tips for the Roblox game."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
