@@ -52,696 +52,419 @@
     "playOnRobloxCTA": "Play on Roblox"
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Zombie Turret Farm Gameplay",
+    "description": "Place automated turrets along your base wall, defeat waves of zombies for cash, upgrade and expand your farm, roll rarer turrets, and keep earning income while offline."
   },
   "tools": {
-    "title": "Lucid Blocks",
+    "title": "Zombie Turret Farm",
     "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "subtitle": "Everything you need for codes, turrets, tier lists, upgrades, base layouts, AFK farming, and the latest Zombie Turret Farm updates.",
     "cards": [
       {
+        "icon": "ClipboardCheck",
+        "title": "Zombie Turret Farm Codes",
+        "description": "Active codes, daily time skip reward, and redemption steps"
+      },
+      {
         "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
-      },
-      {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
-      },
-      {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
-      },
-      {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
-      },
-      {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
+        "title": "Zombie Turret Farm Beginner Guide",
+        "description": "Place turrets, farm zombies, upgrade, and expand your base"
       },
       {
         "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
+        "title": "Zombie Turret Farm Turret Tier List",
+        "description": "S, A, B, C rankings by damage, farming value, and upgrades"
       },
       {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
+        "icon": "Package",
+        "title": "Zombie Turret Farm Turrets and Rarities",
+        "description": "Turret collection, rarity rolls, upgrades, and placement"
       },
       {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
+        "icon": "TrendingUp",
+        "title": "Zombie Turret Farm Upgrade Guide",
+        "description": "Best upgrade order for damage, income, and expansion"
       },
       {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
+        "icon": "Home",
+        "title": "Zombie Turret Farm Best Base Layout",
+        "description": "Turret wall placement, coverage, and expansion patterns"
       },
       {
         "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
+        "title": "Zombie Turret Farm AFK Farming",
+        "description": "Offline setup, passive income, and daily time skip rewards"
       },
       {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "icon": "Sparkles",
+        "title": "Zombie Turret Farm Updates",
+        "description": "New turrets, balance changes, events, and patch notes"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
+    "zombieTurretFarmCodes": {
+      "title": "Zombie Turret Farm Codes and Free Rewards",
+      "eyebrow": "CODES & REWARDS",
+      "subtitle": "Check the current code status and claim the verified daily time skip reward.",
+      "displayType": "code-cards",
+      "intro": "Zombie Turret Farm does not currently list a public code redemption system on its official Roblox page. Players can still unlock the official daily time skip reward by liking the experience and joining the BrainRot Zombies Inc community.",
+      "items": [
+        {
+          "code": "No Active Public Codes",
+          "status": "inactive",
+          "reward": "No code-based rewards are currently listed by the developer.",
+          "instructions": [
+            "Open the official Zombie Turret Farm Roblox page.",
+            "Check the game description and in-game menus after major updates.",
+            "Use only codes announced by BrainRot Zombies Inc."
+          ]
+        },
+        {
+          "code": "Daily Time Skip",
+          "status": "available",
+          "reward": "One daily time skip for the game's farming progression.",
+          "instructions": [
+            "Like Zombie Turret Farm on Roblox.",
+            "Join the BrainRot Zombies Inc Roblox community.",
+            "Enter the game after completing both requirements."
+          ]
+        }
+      ]
+    },
+    "zombieTurretFarmBeginnerGuide": {
+      "title": "Zombie Turret Farm Beginner Guide",
+      "eyebrow": "START HERE",
+      "subtitle": "Build your first turret wall, earn cash from zombies, and expand without slowing your progression.",
       "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
+      "intro": "The main loop is simple: place turrets, defeat incoming zombies, collect profit, and reinvest it into stronger defenses. Turrets continue farming while you are logged off, so a balanced wall of upgraded units provides both active and offline progress.",
       "steps": [
         {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
+          "title": "Place Your First Turrets",
+          "description": "Fill the available wall positions with your starting turret rolls so every open slot can attack the zombie lane.",
+          "tip": "An occupied wall slot provides more immediate farming value than leaving the position empty."
         },
         {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
+          "title": "Farm Incoming Zombies",
+          "description": "Let your turrets automatically attack the zombie horde and turn defeated enemies into spendable profit.",
+          "tip": "Stay in the game during the opening stage so you can reinvest early earnings quickly."
         },
         {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
+          "title": "Upgrade Your Current Lineup",
+          "description": "Spend part of your income improving turrets that are already contributing damage instead of relying only on new rolls.",
+          "tip": "Upgrade the turret covering your weakest section of the wall first."
         },
         {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
+          "title": "Roll for Stronger Turrets",
+          "description": "Use the turret rolling system to obtain rarer and stronger options for your defensive wall.",
+          "tip": "Keep productive turrets in place until a new roll clearly improves the slot."
+        },
+        {
+          "title": "Expand the Base",
+          "description": "Purchase base expansion when your existing wall is stable and additional turret positions will increase total farming speed.",
+          "tip": "Do not spend every coin on repeated rolls when an expansion can add another permanent damage source."
+        },
+        {
+          "title": "Prepare for Offline Farming",
+          "description": "Leave your strongest available turrets placed and upgraded before logging out, because they continue farming while you are offline.",
+          "tip": "Use the daily time skip reward after joining the official developer community."
         }
-      ],
-      "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
-      "cards": [
+    "zombieTurretFarmTurretTierList": {
+      "title": "Zombie Turret Farm Turret Tier List",
+      "eyebrow": "TURRET RANKINGS",
+      "subtitle": "Rank your turret rolls by rarity, upgrade investment, and their value in a limited wall slot.",
+      "displayType": "tier-grid",
+      "intro": "Zombie Turret Farm directly links turret rarity with strength, while upgrades improve the value of turrets already placed in the base. This progression tier list ranks turret profiles by how efficiently they support active farming, expansion, and offline income.",
+      "tiers": [
         {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
+          "tier": "S",
+          "label": "Best",
+          "name": "Highest-Rarity Fully Upgraded Turrets",
+          "damage": "Excellent",
+          "farming": "Excellent",
+          "upgrades": "Excellent",
+          "bestUse": "Permanent placement in the most valuable wall slots.",
+          "priority": "Keep, upgrade, and replace only with a clearly stronger roll."
         },
         {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
+          "tier": "A",
+          "label": "Strong",
+          "name": "High-Rarity Turrets",
+          "damage": "High",
+          "farming": "High",
+          "upgrades": "High",
+          "bestUse": "Mid-game farming and preparation for larger base expansions.",
+          "priority": "Upgrade after the main damage bottleneck has been identified."
         },
         {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
+          "tier": "B",
+          "label": "Useful",
+          "name": "Upgraded Early-Game Turrets",
+          "damage": "Moderate",
+          "farming": "Moderate",
+          "upgrades": "Good early value",
+          "bestUse": "Filling the wall while saving for stronger rolls and expansions.",
+          "priority": "Keep until a rarer turret is ready to take the slot."
         },
         {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
+          "tier": "C",
+          "label": "Replace",
+          "name": "Unupgraded Starter Rolls",
+          "damage": "Low",
+          "farming": "Low",
+          "upgrades": "Limited long-term value",
+          "bestUse": "Temporary coverage for empty wall positions.",
+          "priority": "Replace after obtaining stronger or more upgraded alternatives."
         }
-      ],
-      "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
       ]
     },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
+    "zombieTurretFarmTurretsAndRarities": {
+      "title": "Zombie Turret Farm Turrets and Rarities",
+      "eyebrow": "TURRET COLLECTION",
+      "subtitle": "Understand how turret rolls, rarity, upgrades, and wall placement affect your farming power.",
+      "displayType": "card-list",
+      "intro": "Turrets are obtained through the game's rolling system and placed along the base wall to automatically farm zombies. Rarer rolls provide stronger turret options, while upgrades and additional wall space increase the value of your complete lineup.",
       "items": [
         {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
+          "name": "Starting Turret Rolls",
+          "category": "Early Progression",
+          "strength": "Basic",
+          "obtainedFrom": "The turret rolling system",
+          "bestUse": "Fill empty wall slots and begin generating income immediately.",
+          "spendingRule": "Use them as temporary farming units while building enough income for upgrades and additional rolls."
         },
         {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
+          "name": "Rarer Turret Rolls",
+          "category": "Collection Upgrade",
+          "strength": "Stronger",
+          "obtainedFrom": "Successful higher-rarity turret rolls",
+          "bestUse": "Replace weaker turrets in limited wall positions.",
+          "spendingRule": "Roll when the rest of the base can continue farming without delaying an important upgrade or expansion."
         },
         {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
+          "name": "Upgraded Turrets",
+          "category": "Power Upgrade",
+          "strength": "Improved",
+          "obtainedFrom": "Investing earnings into an existing placed turret",
+          "bestUse": "Increase farming output without waiting for a better roll.",
+          "spendingRule": "Prioritize turrets that already occupy long-term wall slots."
         },
         {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
+          "name": "Offline Farming Lineup",
+          "category": "Passive Income",
+          "strength": "Based on the placed lineup",
+          "obtainedFrom": "Leaving upgraded turrets active in the base",
+          "bestUse": "Continue farming zombies while logged off.",
+          "spendingRule": "Upgrade and organize the strongest available lineup before ending a play session."
         },
         {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
+          "name": "Expanded Turret Wall",
+          "category": "Base Expansion",
+          "strength": "Higher total damage capacity",
+          "obtainedFrom": "Purchasing additional base space",
+          "bestUse": "Add more simultaneous turret attacks against the zombie lane.",
+          "spendingRule": "Expand when another turret slot provides more value than repeatedly replacing an already functional unit."
         }
       ]
     },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
+    "zombieTurretFarmUpgradeGuide": {
+      "title": "Best Zombie Turret Farm Upgrade Order",
+      "eyebrow": "PROGRESSION GUIDE",
+      "subtitle": "Follow a balanced upgrade path that improves zombie clearing, income generation, and long-term progression.",
+      "displayType": "upgrade-path",
+      "intro": "Zombie Turret Farm progression is built around placing turrets, improving your defenses, expanding the base, and rolling rarer turrets. The safest approach is to build a reliable turret wall first, strengthen it, and only then spend heavily on expansion or rarity rolls.",
+      "steps": [
         {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
+          "step": 1,
+          "name": "Build the Initial Turret Wall",
+          "priority": "Highest",
+          "value": "Essential",
+          "recommendation": "Use your first resources to place enough turrets to create a working defensive wall and start earning profit from defeated zombies.",
+          "reason": "Turrets are the core source of damage and farming income."
         },
         {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
-        },
-        {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
-        },
-        {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
-        }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
-        {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
-        },
-        {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
-      "items": [
-        {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
-        },
-        {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
-        },
-        {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
-        },
-        {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
-        },
-        {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
+          "step": 2,
+          "name": "Upgrade Existing Turrets",
           "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
+          "value": "Consistent",
+          "recommendation": "Improve the turrets already contributing to your farm before repeatedly spending currency on random rarity rolls.",
+          "reason": "Reliable upgrades immediately strengthen the active base instead of depending on a random result."
         },
         {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
+          "step": 3,
+          "name": "Expand the Base Gradually",
+          "priority": "Medium",
+          "value": "Long-Term",
+          "recommendation": "Purchase base expansions when you have enough resources to use the newly available space without weakening your current turret wall.",
+          "reason": "Expansion creates more room for progression, but empty space does not increase farming power."
         },
         {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
+          "step": 4,
+          "name": "Roll for Rarer Turrets",
+          "priority": "Medium",
+          "value": "High Potential",
+          "recommendation": "Use the turret roll system after your basic setup is stable. Replace weaker turrets when you obtain rarer and stronger alternatives.",
+          "reason": "The game identifies higher-rarity turrets as stronger, but rolling should not stop early base development."
+        },
+        {
+          "step": 5,
+          "name": "Claim the Daily Time Skip",
+          "priority": "Daily",
+          "value": "Free Progress",
+          "recommendation": "Like the Roblox experience and join the BrainRot Zombies Inc community to access the daily time skip reward.",
+          "reason": "The reward adds progression without requiring another normal farming session."
         }
       ]
     },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
+    "zombieTurretFarmBestBaseLayout": {
+      "title": "Zombie Turret Farm Best Base Layouts",
+      "eyebrow": "BASE BUILDING",
+      "subtitle": "Organize your turret wall around consistent coverage, efficient upgrades, and controlled expansion.",
+      "displayType": "layout-cards",
+      "intro": "The game revolves around building a wall of turrets that automatically farms incoming zombies. A useful layout keeps active turret spaces filled, concentrates upgrades on productive defenses, and avoids expanding faster than your income can support.",
+      "layouts": [
         {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
-          ]
+          "name": "Starter Turret Wall",
+          "bestFor": "New players",
+          "setup": "Create one continuous group of turrets covering the zombie route instead of leaving large gaps between active defenses.",
+          "upgradeFocus": "Strengthen the turrets already dealing damage before making the base larger.",
+          "nextStep": "Begin rolling for stronger replacements after the wall produces steady income."
         },
         {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
-          ]
+          "name": "Balanced Expansion Layout",
+          "bestFor": "Mid-game progression",
+          "setup": "Expand the base one section at a time and place turrets in the new usable space before purchasing another expansion.",
+          "upgradeFocus": "Keep the original upgraded turret group active while adding new turrets around it.",
+          "nextStep": "Replace weaker turrets with rarer rolls without removing too much active damage at once."
         },
         {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
-          ]
+          "name": "AFK Farming Layout",
+          "bestFor": "Offline income",
+          "setup": "Fill available useful spaces with your strongest current turret setup and complete upgrades before logging off.",
+          "upgradeFocus": "Prioritize stable overall farming power rather than saving all currency for future rolls.",
+          "nextStep": "Collect offline earnings after returning, then upgrade, expand, or roll before the next AFK session."
         },
         {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
-          ]
+          "name": "Layout Mistakes to Avoid",
+          "bestFor": "All progression stages",
+          "setup": "Avoid buying expansion while leaving earlier spaces unused, keeping stronger turrets unplaced, or spending every coin on rarity rolls before building a functional wall.",
+          "upgradeFocus": "Do not spread currency across unnecessary purchases when one reliable turret group can be improved first.",
+          "nextStep": "Review the layout after every major expansion or stronger turret roll."
         }
       ]
     },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
+    "zombieTurretFarmAFKFarmingGuide": {
+      "title": "Zombie Turret Farm AFK and Offline Farming",
+      "eyebrow": "OFFLINE PROGRESS",
+      "subtitle": "Prepare your turret wall before leaving so the base can continue generating useful progress while you are offline.",
+      "displayType": "comparison-table",
+      "intro": "Zombie Turret Farm officially supports offline farming, meaning placed turrets continue working after you log out. The best offline routine is to spend available resources, equip stronger turrets, and claim the daily time skip whenever it is available.",
+      "methods": [
         {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
+          "method": "Normal Offline Farming",
+          "requirement": "Place turrets and leave the game",
+          "benefit": "Your turret farm continues operating while you are logged off.",
+          "bestUse": "Regular breaks, school, work, or overnight progression.",
+          "preparation": "Place your strongest available turrets and spend useful upgrade currency before leaving."
         },
         {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
+          "method": "Upgraded Offline Setup",
+          "requirement": "Upgrade the active turret wall before logging out",
+          "benefit": "Starts the offline period with a stronger working base.",
+          "bestUse": "Players with saved currency and an established turret wall.",
+          "preparation": "Improve existing defenses before purchasing another empty base expansion."
         },
         {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
+          "method": "Rarity-Focused Setup",
+          "requirement": "Roll and place rarer, stronger turrets",
+          "benefit": "Replaces weaker parts of the farm with stronger turret options.",
+          "bestUse": "Players whose basic base and upgrade progression are already stable.",
+          "preparation": "Place successful rolls immediately instead of leaving stronger turrets unused."
         },
         {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
+          "method": "Daily Time Skip",
+          "requirement": "Like the game and join the BrainRot Zombies Inc community",
+          "benefit": "Provides an additional daily progression reward connected to offline farming.",
+          "bestUse": "Every active player.",
+          "preparation": "Complete the community requirements and claim the reward when available."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
-        },
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "method": "Return-and-Reinvest Loop",
+          "requirement": "Return after an offline session and collect the resulting progress",
+          "benefit": "Turns offline earnings into stronger turrets, upgrades, expansions, or new rarity rolls.",
+          "bestUse": "Maintaining continuous long-term growth.",
+          "preparation": "Reinvest before beginning another offline farming period."
         }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
-        },
-        {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
-        },
-        {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
-        }
-      ]
-    },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
-        {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
-        },
-        {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
-        },
-        {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
-        },
-        {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
+    "zombieTurretFarmUpdates": {
+      "title": "Latest Zombie Turret Farm Changes and Features",
+      "eyebrow": "GAME UPDATES",
+      "subtitle": "Review the confirmed launch systems, progression features, offline rewards, and developer notices.",
       "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
+      "intro": "Zombie Turret Farm is a new Roblox release from BrainRot Zombies Inc. Its current version focuses on automated zombie farming, turret upgrades, base expansion, rarity rolls, offline progression, and a community-based daily reward.",
       "entries": [
         {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
+          "stage": "Launch Feature",
+          "title": "Automated Zombie Farming",
+          "summary": "Players place turrets that attack incoming zombies and convert successful farming into profit.",
+          "changes": [
+            "Turret placement is the central gameplay mechanic.",
+            "The base is designed around building a wall of automated defenses.",
+            "Defeating zombies supports continued progression."
+          ]
         },
         {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
+          "stage": "Launch Feature",
+          "title": "Base Upgrades and Expansion",
+          "summary": "The progression system allows players to improve their setup and expand the size of their base.",
+          "changes": [
+            "Existing defenses can be improved through progression upgrades.",
+            "Base expansion provides additional room for development.",
+            "Players can reinvest farming income into stronger setups."
+          ]
         },
         {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
-      "steps": [
-        {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "stage": "Launch Feature",
+          "title": "Turret Rarity Rolls",
+          "summary": "Players can roll for rarer turret variants that are identified as stronger than basic options.",
+          "changes": [
+            "Turrets are obtained through a rarity-based roll system.",
+            "Rarer results provide stronger turret options.",
+            "New rolls can be used to replace weaker parts of the base."
+          ]
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "stage": "Launch Feature",
+          "title": "Offline Turret Farming",
+          "summary": "Placed turrets continue farming after the player logs out of the experience.",
+          "changes": [
+            "Progress can continue between active sessions.",
+            "Players can prepare the base before leaving.",
+            "Returned earnings can be reinvested into upgrades, expansion, or rolls."
+          ]
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
+          "stage": "Current Reward",
+          "title": "Daily Time Skip",
+          "summary": "Players can unlock a daily time skip by liking the experience and joining the developer community.",
+          "changes": [
+            "The reward is connected to the official BrainRot Zombies Inc community.",
+            "It can be added to the normal offline progression routine.",
+            "Players should check the experience regularly to claim the daily benefit."
+          ]
         },
         {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
-        },
-        {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "stage": "Developer Notice",
+          "title": "New-Release Bug Monitoring",
+          "summary": "The official game description identifies Zombie Turret Farm as a new release and notes that players may encounter occasional bugs.",
+          "changes": [
+            "The experience is still in its early release period.",
+            "Gameplay systems may receive fixes and adjustments.",
+            "The official Roblox experience and developer community are the primary update channels."
+          ]
         }
       ]
     }
@@ -749,31 +472,31 @@
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know about Zombie Turret Farm",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "What is Zombie Turret Farm?",
+        "answer": "Zombie Turret Farm is a Roblox idle turret defense game where you place turrets along a base wall, defeat incoming zombies for cash, upgrade and expand your farm, roll rarer turrets, and keep earning income while offline."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "Are there any working Zombie Turret Farm codes?",
+        "answer": "Zombie Turret Farm does not currently list a public code redemption system on its official Roblox page. Players can still unlock the official daily time skip reward by liking the experience and joining the BrainRot Zombies Inc community."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "Does Zombie Turret Farm keep farming while you are offline?",
+        "answer": "Yes. Placed turrets continue farming zombies after you log out, so upgrading your strongest available turret wall before leaving improves your offline income."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "How do turret rolls and rarities work in Zombie Turret Farm?",
+        "answer": "Turrets are obtained through the game's rolling system and placed along the base wall. Rarer rolls provide stronger turret options, while upgrades increase the value of the turrets already in your lineup."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "Who developed Zombie Turret Farm?",
+        "answer": "Zombie Turret Farm is developed by BrainRot Zombies Inc and is available to play for free on Roblox."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "What is the best way to progress in Zombie Turret Farm?",
+        "answer": "Build a reliable turret wall first, upgrade the turrets already contributing damage, expand the base gradually, then roll for rarer turrets and claim the daily time skip reward."
       }
     ]
   },
@@ -798,127 +521,5 @@
     "robloxGame": "Roblox Game",
     "robloxGroup": "Roblox Group",
     "youtube": "YouTube Gameplay"
-  },
-  "pages": {
-    "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
-      "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Guides"
-    },
-    "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
-      "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
-    },
-    "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
-      "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Items"
-    },
-    "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
-      "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Biomes"
-    },
-    "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
-      "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Building Guides"
-    },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
-      "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
-    }
   }
 }
