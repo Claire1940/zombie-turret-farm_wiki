@@ -10,7 +10,15 @@
       "twitterDescription": "Zombie Turret Farm Wiki covers codes, turret rankings, upgrades, base layouts, and AFK farming tips for the Roblox game."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "turrets": "Turrets",
+    "upgrades": "Upgrades",
+    "farming": "Farming",
+    "layout": "Layout",
+    "updates": "Updates"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -521,5 +529,147 @@
     "robloxGame": "Roblox Game",
     "robloxGroup": "Roblox Group",
     "youtube": "YouTube Gameplay"
+  },
+  "pages": {
+    "codes": {
+      "title": "Zombie Turret Farm Codes",
+      "description": "Latest Zombie Turret Farm codes, daily time skip rewards, and free redemption steps. Check active rewards and claim your bonuses.",
+      "metaTitle": "Zombie Turret Farm Codes - Free Rewards & Daily Time Skip",
+      "metaDescription": "Claim the latest Zombie Turret Farm codes, daily time skip rewards, and free bonuses. Updated redemption steps and active reward status.",
+      "categoryLabel": "REDEEM CODES",
+      "whatIs": "What Are Zombie Turret Farm Codes?",
+      "whatIsDescription": "Codes and daily rewards in Zombie Turret Farm grant free progression bonuses, including the daily time skip that advances your farming income. Redeem them to speed up turret upgrades, base expansion, and offline earnings.",
+      "why": "Why Use These Codes?",
+      "whySteps": {
+        "step1Title": "Claim Free Progress",
+        "step1Description": "Active rewards add instant progression without spending your farmed coins on the same upgrades.",
+        "step2Title": "Daily Time Skip",
+        "step2Description": "The daily time skip reward advances your offline farming, giving you a head start every day.",
+        "step3Title": "Verified Redemption Steps",
+        "step3Description": "Follow the confirmed steps to unlock each reward directly from the official Roblox experience."
+      },
+      "featured": "Featured Codes & Rewards",
+      "all": "All Codes & Rewards"
+    },
+    "guide": {
+      "title": "Zombie Turret Farm Guides",
+      "description": "Complete Zombie Turret Farm guides for beginners and pros. Learn the core loop, place turrets, farm zombies, upgrade, and expand your base.",
+      "metaTitle": "Zombie Turret Farm Guides - Beginner, Progression & Tips",
+      "metaDescription": "Master Zombie Turret Farm with beginner guides, progression paths, multiplayer tips, and how-to-play walkthroughs for every stage.",
+      "categoryLabel": "GUIDES",
+      "whatIs": "What Are Zombie Turret Farm Guides?",
+      "whatIsDescription": "Guides walk you through the core Zombie Turret Farm loop: placing turrets along your base wall, defeating zombies for cash, upgrading defenses, rolling rarer turrets, and expanding your farm for active and offline income.",
+      "why": "Why Read These Guides?",
+      "whySteps": {
+        "step1Title": "Learn the Core Loop",
+        "step1Description": "Understand how turrets, cash, upgrades, and expansion connect into one farming cycle.",
+        "step2Title": "Progress Faster",
+        "step2Description": "Follow a clear path from your first turret to a stable, high-income base.",
+        "step3Title": "Avoid Common Mistakes",
+        "step3Description": "Skip wasted spending on rolls and expansions before your turret wall is ready."
+      },
+      "featured": "Featured Guides",
+      "all": "All Guides"
+    },
+    "turrets": {
+      "title": "Zombie Turret Farm Turrets",
+      "description": "Every Zombie Turret Farm turret with stats, rarities, abilities, and unlock paths. Compare turrets and build the strongest wall.",
+      "metaTitle": "Zombie Turret Farm Turrets - Stats, Rarities & Tier List",
+      "metaDescription": "Browse all Zombie Turret Farm turrets with damage stats, rarities, abilities, and the best turret tier list to build your defensive wall.",
+      "categoryLabel": "TURRETS",
+      "whatIs": "What Are Turrets?",
+      "whatIsDescription": "Turrets are the automated defenses you place along your base wall to farm incoming zombies. Each turret has its own rarity, attack style, damage, and unlock path, and rarer rolls produce stronger options.",
+      "why": "Why Study Turrets?",
+      "whySteps": {
+        "step1Title": "Know Your Options",
+        "step1Description": "Compare every turret's stats, rarity, and abilities before committing wall space.",
+        "step2Title": "Build a Stronger Wall",
+        "step2Description": "Place the right turrets in the right slots to maximize zombie clearing and income.",
+        "step3Title": "Plan Your Rolls",
+        "step3Description": "Understand rarities so you know which rolls are worth keeping and upgrading."
+      },
+      "featured": "Featured Turret Guides",
+      "all": "All Turret Guides"
+    },
+    "upgrades": {
+      "title": "Zombie Turret Farm Upgrades",
+      "description": "Best Zombie Turret Farm upgrade order for damage, income, turret upgrades, and base expansion. Spend coins efficiently at every stage.",
+      "metaTitle": "Zombie Turret Farm Upgrades - Best Order & Base Upgrades",
+      "metaDescription": "Find the best Zombie Turret Farm upgrade order for turret damage, income, and base expansion. Spend your coins efficiently at every progression stage.",
+      "categoryLabel": "UPGRADES",
+      "whatIs": "What Are Upgrades?",
+      "whatIsDescription": "Upgrades let you invest your farmed coins into turret damage, attack speed, income, and base capacity. A smart upgrade order keeps your turret wall scaling smoothly from early game to late game.",
+      "why": "Why Follow an Upgrade Order?",
+      "whySteps": {
+        "step1Title": "Spend Coins Efficiently",
+        "step1Description": "Prioritize the upgrades that add the most damage and income at your current stage.",
+        "step2Title": "Scale Your Income",
+        "step2Description": "Income upgrades grow the coins you earn from every zombie defeated.",
+        "step3Title": "Expand at the Right Time",
+        "step3Description": "Unlock base expansions only when your existing wall can support the new space."
+      },
+      "featured": "Featured Upgrade Guides",
+      "all": "All Upgrade Guides"
+    },
+    "farming": {
+      "title": "Zombie Turret Farm Farming",
+      "description": "Zombie Turret Farm farming guides for coins, AFK income, offline earnings, and daily rewards. Build a base that earns while you are away.",
+      "metaTitle": "Zombie Turret Farm Farming - AFK, Offline & Fast Coins",
+      "metaDescription": "Master Zombie Turret Farm farming with AFK setups, offline earnings, the fastest way to get coins, and daily time skip rewards.",
+      "categoryLabel": "FARMING",
+      "whatIs": "What Is Farming?",
+      "whatIsDescription": "Farming in Zombie Turret Farm is how you turn defeated zombies into coins. With the right turret setup, your base keeps farming even while you are offline, so active play and AFK income work together.",
+      "why": "Why Optimize Farming?",
+      "whySteps": {
+        "step1Title": "Earn Coins Faster",
+        "step1Description": "Use the best farming strategy to maximize coins from every zombie wave.",
+        "step2Title": "Farm While Offline",
+        "step2Description": "Prepare your turret wall before logging out so it keeps generating income.",
+        "step3Title": "Claim Daily Rewards",
+        "step3Description": "Use the daily time skip and other free rewards to boost your progress."
+      },
+      "featured": "Featured Farming Guides",
+      "all": "All Farming Guides"
+    },
+    "layout": {
+      "title": "Zombie Turret Farm Base Layouts",
+      "description": "Best Zombie Turret Farm base layouts for starter, mid-game, and late-game. Turret wall positioning, coverage, and expansion patterns.",
+      "metaTitle": "Zombie Turret Farm Base Layouts - Best Turret Wall Setup",
+      "metaDescription": "Build the best Zombie Turret Farm base layout with turret wall positioning, defense setup, and expansion patterns for every game stage.",
+      "categoryLabel": "BASE LAYOUTS",
+      "whatIs": "What Are Base Layouts?",
+      "whatIsDescription": "Base layouts define how you place turrets, walls, and expansions across your farm. A good layout fills every useful slot, concentrates upgrades on productive turrets, and expands only when income can support it.",
+      "why": "Why Plan Your Layout?",
+      "whySteps": {
+        "step1Title": "Maximize Coverage",
+        "step1Description": "Position turrets so every zombie is hit and no wall slot is wasted.",
+        "step2Title": "Scale With Your Base",
+        "step2Description": "Choose a starter, mid-game, or late-game layout that matches your progression.",
+        "step3Title": "Expand Without Slowing Down",
+        "step3Description": "Add new space only when your turret wall can fill and defend it."
+      },
+      "featured": "Featured Layout Guides",
+      "all": "All Layout Guides"
+    },
+    "updates": {
+      "title": "Zombie Turret Farm Updates",
+      "description": "Latest Zombie Turret Farm updates, patch notes, new turrets, balance changes, and release info. Track every version change.",
+      "metaTitle": "Zombie Turret Farm Updates - Patch Notes & New Turrets",
+      "metaDescription": "Stay current with Zombie Turret Farm updates, patch notes, new turrets, balance changes, and the latest version release information.",
+      "categoryLabel": "UPDATES",
+      "whatIs": "What Are Updates?",
+      "whatIsDescription": "Updates cover every change in Zombie Turret Farm: new turrets, balance adjustments, bug fixes, and official announcements. Tracking updates helps you adapt your turret wall and farming strategy.",
+      "why": "Why Follow Updates?",
+      "whySteps": {
+        "step1Title": "Catch New Turrets",
+        "step1Description": "Learn which new turrets and rarities arrive in each update.",
+        "step2Title": "Adapt to Balance Changes",
+        "step2Description": "Adjust your upgrade order and layout when stats and mechanics change.",
+        "step3Title": "Stay Informed",
+        "step3Description": "Read organized patch notes so you never miss an important fix or feature."
+      },
+      "featured": "Featured Update Guides",
+      "all": "All Update Guides"
+    }
   }
 }

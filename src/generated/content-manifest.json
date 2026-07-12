@@ -1,1 +1,446 @@
-{}
+{
+  "en": {
+    "codes": [
+      {
+        "slug": "zombie-turret-farm-codes",
+        "file": "zombie-turret-farm-codes"
+      }
+    ],
+    "farming": [
+      {
+        "slug": "zombie-turret-farm-best-farming-strategy",
+        "file": "zombie-turret-farm-best-farming-strategy"
+      },
+      {
+        "slug": "zombie-turret-farm-daily-rewards",
+        "file": "zombie-turret-farm-daily-rewards"
+      },
+      {
+        "slug": "zombie-turret-farm-fastest-way-to-get-coins",
+        "file": "zombie-turret-farm-fastest-way-to-get-coins"
+      },
+      {
+        "slug": "zombie-turret-farm-offline-farming-guide",
+        "file": "zombie-turret-farm-offline-farming-guide"
+      },
+      {
+        "slug": "zombie-turret-farm-time-skip-reward",
+        "file": "zombie-turret-farm-time-skip-reward"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "zombie-turret-farm-beginner-guide",
+        "file": "zombie-turret-farm-beginner-guide"
+      },
+      {
+        "slug": "zombie-turret-farm-early-game-guide",
+        "file": "zombie-turret-farm-early-game-guide"
+      },
+      {
+        "slug": "zombie-turret-farm-guide",
+        "file": "zombie-turret-farm-guide"
+      },
+      {
+        "slug": "zombie-turret-farm-how-to-play",
+        "file": "zombie-turret-farm-how-to-play"
+      },
+      {
+        "slug": "zombie-turret-farm-multiplayer-guide",
+        "file": "zombie-turret-farm-multiplayer-guide"
+      },
+      {
+        "slug": "zombie-turret-farm-progression-guide",
+        "file": "zombie-turret-farm-progression-guide"
+      },
+      {
+        "slug": "zombie-turret-farm-tips-and-tricks",
+        "file": "zombie-turret-farm-tips-and-tricks"
+      }
+    ],
+    "layout": [
+      {
+        "slug": "zombie-turret-farm-best-base-layout",
+        "file": "zombie-turret-farm-best-base-layout"
+      },
+      {
+        "slug": "zombie-turret-farm-defense-setup",
+        "file": "zombie-turret-farm-defense-setup"
+      },
+      {
+        "slug": "zombie-turret-farm-late-game-layout",
+        "file": "zombie-turret-farm-late-game-layout"
+      },
+      {
+        "slug": "zombie-turret-farm-starter-base-layout",
+        "file": "zombie-turret-farm-starter-base-layout"
+      },
+      {
+        "slug": "zombie-turret-farm-turret-positioning",
+        "file": "zombie-turret-farm-turret-positioning"
+      }
+    ],
+    "turrets": [
+      {
+        "slug": "zombie-turret-farm-all-turrets",
+        "file": "zombie-turret-farm-all-turrets"
+      },
+      {
+        "slug": "zombie-turret-farm-best-turrets",
+        "file": "zombie-turret-farm-best-turrets"
+      },
+      {
+        "slug": "zombie-turret-farm-turret-abilities",
+        "file": "zombie-turret-farm-turret-abilities"
+      },
+      {
+        "slug": "zombie-turret-farm-turret-stats",
+        "file": "zombie-turret-farm-turret-stats"
+      },
+      {
+        "slug": "zombie-turret-farm-turret-tier-list",
+        "file": "zombie-turret-farm-turret-tier-list"
+      },
+      {
+        "slug": "zombie-turret-farm-turret-unlocks",
+        "file": "zombie-turret-farm-turret-unlocks"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "zombie-turret-farm-latest-update",
+        "file": "zombie-turret-farm-latest-update"
+      },
+      {
+        "slug": "zombie-turret-farm-new-turrets",
+        "file": "zombie-turret-farm-new-turrets"
+      },
+      {
+        "slug": "zombie-turret-farm-release-date",
+        "file": "zombie-turret-farm-release-date"
+      },
+      {
+        "slug": "zombie-turret-farm-update-log",
+        "file": "zombie-turret-farm-update-log"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "zombie-turret-farm-base-upgrades",
+        "file": "zombie-turret-farm-base-upgrades"
+      },
+      {
+        "slug": "zombie-turret-farm-best-upgrades",
+        "file": "zombie-turret-farm-best-upgrades"
+      },
+      {
+        "slug": "zombie-turret-farm-income-upgrades",
+        "file": "zombie-turret-farm-income-upgrades"
+      },
+      {
+        "slug": "zombie-turret-farm-turret-upgrades",
+        "file": "zombie-turret-farm-turret-upgrades"
+      },
+      {
+        "slug": "zombie-turret-farm-upgrade-order",
+        "file": "zombie-turret-farm-upgrade-order"
+      }
+    ]
+  },
+  "es": {
+    "codes": [
+      {
+        "slug": "zombie-turret-farm-codes",
+        "file": "zombie-turret-farm-codes"
+      }
+    ],
+    "farming": [
+      {
+        "slug": "zombie-turret-farm-best-farming-strategy",
+        "file": "zombie-turret-farm-best-farming-strategy"
+      },
+      {
+        "slug": "zombie-turret-farm-daily-rewards",
+        "file": "zombie-turret-farm-daily-rewards"
+      },
+      {
+        "slug": "zombie-turret-farm-fastest-way-to-get-coins",
+        "file": "zombie-turret-farm-fastest-way-to-get-coins"
+      },
+      {
+        "slug": "zombie-turret-farm-offline-farming-guide",
+        "file": "zombie-turret-farm-offline-farming-guide"
+      },
+      {
+        "slug": "zombie-turret-farm-time-skip-reward",
+        "file": "zombie-turret-farm-time-skip-reward"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "zombie-turret-farm-beginner-guide",
+        "file": "zombie-turret-farm-beginner-guide"
+      },
+      {
+        "slug": "zombie-turret-farm-early-game-guide",
+        "file": "zombie-turret-farm-early-game-guide"
+      },
+      {
+        "slug": "zombie-turret-farm-guide",
+        "file": "zombie-turret-farm-guide"
+      },
+      {
+        "slug": "zombie-turret-farm-how-to-play",
+        "file": "zombie-turret-farm-how-to-play"
+      },
+      {
+        "slug": "zombie-turret-farm-multiplayer-guide",
+        "file": "zombie-turret-farm-multiplayer-guide"
+      },
+      {
+        "slug": "zombie-turret-farm-progression-guide",
+        "file": "zombie-turret-farm-progression-guide"
+      },
+      {
+        "slug": "zombie-turret-farm-tips-and-tricks",
+        "file": "zombie-turret-farm-tips-and-tricks"
+      }
+    ],
+    "layout": [
+      {
+        "slug": "zombie-turret-farm-best-base-layout",
+        "file": "zombie-turret-farm-best-base-layout"
+      },
+      {
+        "slug": "zombie-turret-farm-defense-setup",
+        "file": "zombie-turret-farm-defense-setup"
+      },
+      {
+        "slug": "zombie-turret-farm-late-game-layout",
+        "file": "zombie-turret-farm-late-game-layout"
+      },
+      {
+        "slug": "zombie-turret-farm-starter-base-layout",
+        "file": "zombie-turret-farm-starter-base-layout"
+      },
+      {
+        "slug": "zombie-turret-farm-turret-positioning",
+        "file": "zombie-turret-farm-turret-positioning"
+      }
+    ],
+    "turrets": [
+      {
+        "slug": "zombie-turret-farm-all-turrets",
+        "file": "zombie-turret-farm-all-turrets"
+      },
+      {
+        "slug": "zombie-turret-farm-best-turrets",
+        "file": "zombie-turret-farm-best-turrets"
+      },
+      {
+        "slug": "zombie-turret-farm-turret-abilities",
+        "file": "zombie-turret-farm-turret-abilities"
+      },
+      {
+        "slug": "zombie-turret-farm-turret-stats",
+        "file": "zombie-turret-farm-turret-stats"
+      },
+      {
+        "slug": "zombie-turret-farm-turret-tier-list",
+        "file": "zombie-turret-farm-turret-tier-list"
+      },
+      {
+        "slug": "zombie-turret-farm-turret-unlocks",
+        "file": "zombie-turret-farm-turret-unlocks"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "zombie-turret-farm-latest-update",
+        "file": "zombie-turret-farm-latest-update"
+      },
+      {
+        "slug": "zombie-turret-farm-new-turrets",
+        "file": "zombie-turret-farm-new-turrets"
+      },
+      {
+        "slug": "zombie-turret-farm-release-date",
+        "file": "zombie-turret-farm-release-date"
+      },
+      {
+        "slug": "zombie-turret-farm-update-log",
+        "file": "zombie-turret-farm-update-log"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "zombie-turret-farm-base-upgrades",
+        "file": "zombie-turret-farm-base-upgrades"
+      },
+      {
+        "slug": "zombie-turret-farm-best-upgrades",
+        "file": "zombie-turret-farm-best-upgrades"
+      },
+      {
+        "slug": "zombie-turret-farm-income-upgrades",
+        "file": "zombie-turret-farm-income-upgrades"
+      },
+      {
+        "slug": "zombie-turret-farm-turret-upgrades",
+        "file": "zombie-turret-farm-turret-upgrades"
+      },
+      {
+        "slug": "zombie-turret-farm-upgrade-order",
+        "file": "zombie-turret-farm-upgrade-order"
+      }
+    ]
+  },
+  "pt": {
+    "codes": [
+      {
+        "slug": "zombie-turret-farm-codes",
+        "file": "zombie-turret-farm-codes"
+      }
+    ],
+    "farming": [
+      {
+        "slug": "zombie-turret-farm-best-farming-strategy",
+        "file": "zombie-turret-farm-best-farming-strategy"
+      },
+      {
+        "slug": "zombie-turret-farm-daily-rewards",
+        "file": "zombie-turret-farm-daily-rewards"
+      },
+      {
+        "slug": "zombie-turret-farm-fastest-way-to-get-coins",
+        "file": "zombie-turret-farm-fastest-way-to-get-coins"
+      },
+      {
+        "slug": "zombie-turret-farm-offline-farming-guide",
+        "file": "zombie-turret-farm-offline-farming-guide"
+      },
+      {
+        "slug": "zombie-turret-farm-time-skip-reward",
+        "file": "zombie-turret-farm-time-skip-reward"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "zombie-turret-farm-beginner-guide",
+        "file": "zombie-turret-farm-beginner-guide"
+      },
+      {
+        "slug": "zombie-turret-farm-early-game-guide",
+        "file": "zombie-turret-farm-early-game-guide"
+      },
+      {
+        "slug": "zombie-turret-farm-guide",
+        "file": "zombie-turret-farm-guide"
+      },
+      {
+        "slug": "zombie-turret-farm-how-to-play",
+        "file": "zombie-turret-farm-how-to-play"
+      },
+      {
+        "slug": "zombie-turret-farm-multiplayer-guide",
+        "file": "zombie-turret-farm-multiplayer-guide"
+      },
+      {
+        "slug": "zombie-turret-farm-progression-guide",
+        "file": "zombie-turret-farm-progression-guide"
+      },
+      {
+        "slug": "zombie-turret-farm-tips-and-tricks",
+        "file": "zombie-turret-farm-tips-and-tricks"
+      }
+    ],
+    "layout": [
+      {
+        "slug": "zombie-turret-farm-best-base-layout",
+        "file": "zombie-turret-farm-best-base-layout"
+      },
+      {
+        "slug": "zombie-turret-farm-defense-setup",
+        "file": "zombie-turret-farm-defense-setup"
+      },
+      {
+        "slug": "zombie-turret-farm-late-game-layout",
+        "file": "zombie-turret-farm-late-game-layout"
+      },
+      {
+        "slug": "zombie-turret-farm-starter-base-layout",
+        "file": "zombie-turret-farm-starter-base-layout"
+      },
+      {
+        "slug": "zombie-turret-farm-turret-positioning",
+        "file": "zombie-turret-farm-turret-positioning"
+      }
+    ],
+    "turrets": [
+      {
+        "slug": "zombie-turret-farm-all-turrets",
+        "file": "zombie-turret-farm-all-turrets"
+      },
+      {
+        "slug": "zombie-turret-farm-best-turrets",
+        "file": "zombie-turret-farm-best-turrets"
+      },
+      {
+        "slug": "zombie-turret-farm-turret-abilities",
+        "file": "zombie-turret-farm-turret-abilities"
+      },
+      {
+        "slug": "zombie-turret-farm-turret-stats",
+        "file": "zombie-turret-farm-turret-stats"
+      },
+      {
+        "slug": "zombie-turret-farm-turret-tier-list",
+        "file": "zombie-turret-farm-turret-tier-list"
+      },
+      {
+        "slug": "zombie-turret-farm-turret-unlocks",
+        "file": "zombie-turret-farm-turret-unlocks"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "zombie-turret-farm-latest-update",
+        "file": "zombie-turret-farm-latest-update"
+      },
+      {
+        "slug": "zombie-turret-farm-new-turrets",
+        "file": "zombie-turret-farm-new-turrets"
+      },
+      {
+        "slug": "zombie-turret-farm-release-date",
+        "file": "zombie-turret-farm-release-date"
+      },
+      {
+        "slug": "zombie-turret-farm-update-log",
+        "file": "zombie-turret-farm-update-log"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "zombie-turret-farm-base-upgrades",
+        "file": "zombie-turret-farm-base-upgrades"
+      },
+      {
+        "slug": "zombie-turret-farm-best-upgrades",
+        "file": "zombie-turret-farm-best-upgrades"
+      },
+      {
+        "slug": "zombie-turret-farm-income-upgrades",
+        "file": "zombie-turret-farm-income-upgrades"
+      },
+      {
+        "slug": "zombie-turret-farm-turret-upgrades",
+        "file": "zombie-turret-farm-turret-upgrades"
+      },
+      {
+        "slug": "zombie-turret-farm-upgrade-order",
+        "file": "zombie-turret-farm-upgrade-order"
+      }
+    ]
+  }
+}
