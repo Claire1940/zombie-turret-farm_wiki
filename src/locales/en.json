@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Zombie Turret Farm Wiki - Codes, Turrets & AFK Guide",
+      "description": "Zombie Turret Farm Wiki with verified codes, turret rankings, upgrade paths, base layouts, AFK income tips, offline farming help, and Roblox update news.",
+      "keywords": "Zombie Turret Farm, Roblox, codes, tier list, turrets, AFK farming, upgrades, base layout",
+      "ogTitle": "Zombie Turret Farm Wiki - Codes, Turrets & AFK Guide",
+      "ogDescription": "Zombie Turret Farm Wiki with verified codes, turret rankings, upgrade paths, base layouts, AFK income tips, offline farming help, and Roblox update news.",
+      "twitterTitle": "Zombie Turret Farm Wiki - Codes, Turrets & AFK Guide",
+      "twitterDescription": "Zombie Turret Farm Wiki covers codes, turret rankings, upgrades, base layouts, and AFK farming tips for the Roblox game."
     }
   },
   "nav": {
@@ -21,7 +21,7 @@
   "common": {
     "home": "Home",
     "more": "More",
-    "playNow": "Play on Steam",
+    "playNow": "Play on Roblox",
     "switchLanguage": "Switch Language",
     "switchTheme": "Switch Theme",
     "lightMode": "Light Mode",
@@ -34,29 +34,29 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Idle Zombie Turret Simulator",
+    "title": "Zombie Turret Farm Wiki",
+    "description": "Build an automated turret wall, defeat endless zombies for cash, upgrade and expand your base, roll stronger turrets, and continue earning while offline.",
+    "getFreeCodesCTA": "Check Codes & Rewards",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "191.3K+",
+        "label": "Total Visits"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "1.3K",
+        "label": "Players Online"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "966",
+        "label": "Favorites"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "24/7",
+        "label": "Offline Farming"
       }
-    }
+    },
+    "playOnRobloxCTA": "Play on Roblox"
   },
   "gameFeature": {
     "title": "Lucid Blocks Gameplay",
@@ -785,27 +785,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Defend Your Base?",
+    "description": "Join the Roblox group for Zombie Turret Farm guides, codes, updates, and base-building discussions!",
+    "joinCommunity": "Join Roblox Group",
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Zombie Turret Farm Wiki",
+    "description": "Your complete resource hub for Zombie Turret Farm codes, turrets, tier lists, upgrades, base layouts, and AFK farming guides.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
-    "disclaimer": "Unofficial fan-made resource website."
+    "copyright": "© 2026 Zombie Turret Farm Wiki. Not affiliated with the developers of Zombie Turret Farm.",
+    "disclaimer": "Unofficial fan-made resource website.",
+    "robloxGame": "Roblox Game",
+    "robloxGroup": "Roblox Group",
+    "youtube": "YouTube Gameplay"
   },
   "pages": {
     "guides": {
