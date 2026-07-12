@@ -144,7 +144,7 @@
       "title": "Guía para principiantes de Zombie Turret Farm",
       "eyebrow": "EMPIEZA AQUÍ",
       "subtitle": "Construye tu primera pared de torretas, gana dinero de los zombis y expándete sin ralentizar tu progresión.",
-      "displayType": "pasos",
+      "displayType": "steps",
       "intro": "El ciclo principal es simple: coloca torretas, derrota a los zombis que se aproximan, recoge las ganancias y reinviértelas en defensas más fuertes. Las torretas siguen farmeando mientras estás desconectado, por lo que una pared equilibrada de unidades mejoradas proporciona progreso tanto activo como sin conexión.",
       "steps": [
         {
@@ -327,47 +327,47 @@
       ]
     },
     "zombieTurretFarmBestBaseLayout": {
-      "title": "La recompensa añade progreso sin necesidad de otra sesión normal de recolección.",
-      "eyebrow": "Mejores diseños de base de Zombie Turret Farm",
-      "subtitle": "CONSTRUCCIÓN DE BASE",
-      "displayType": "Organiza tu muro de torretas con una cobertura constante, mejoras eficientes y expansión controlada.",
-      "intro": "layout-cards",
+      "title": "Mejores diseños de base de Zombie Turret Farm",
+      "eyebrow": "CONSTRUCCIÓN DE BASE",
+      "subtitle": "Organiza tu muro de torretas con una cobertura constante, mejoras eficientes y expansión controlada.",
+      "displayType": "layout-cards",
+      "intro": "El juego consiste en construir un muro de torretas que recolecta automáticamente los zombis que llegan. Un diseño útil mantiene llenos los espacios de torretas activas, concentra las mejoras en defensas productivas y evita expandirse más rápido de lo que tus ingresos permiten.",
       "layouts": [
         {
-          "name": "El juego consiste en construir un muro de torretas que recolecta automáticamente los zombis que llegan. Un diseño útil mantiene llenos los espacios de torretas activas, concentra las mejoras en defensas productivas y evita expandirse más rápido de lo que tus ingresos permiten.",
-          "bestFor": "Muro de torretas inicial",
-          "setup": "Jugadores nuevos",
-          "upgradeFocus": "Crea un grupo continuo de torretas que cubra la ruta de los zombis en lugar de dejar grandes huecos entre las defensas activas.",
-          "nextStep": "Fortalece las torretas que ya infligen daño antes de agrandar la base."
+          "name": "Muro de torretas inicial",
+          "bestFor": "Jugadores nuevos",
+          "setup": "Crea un grupo continuo de torretas que cubra la ruta de los zombis en lugar de dejar grandes huecos entre las defensas activas.",
+          "upgradeFocus": "Fortalece las torretas que ya infligen daño antes de agrandar la base.",
+          "nextStep": "Empieza a tirar por reemplazos más fuertes una vez que el muro genere ingresos constantes."
         },
         {
-          "name": "Empieza a tirar por reemplazos más fuertes una vez que el muro genere ingresos constantes.",
-          "bestFor": "Diseño de expansión equilibrado",
-          "setup": "Progreso de mitad de juego",
-          "upgradeFocus": "Expande la base sección por sección y coloca torretas en el nuevo espacio utilizable antes de comprar otra expansión.",
-          "nextStep": "Mantén activo el grupo original de torretas mejoradas mientras añades nuevas torretas a su alrededor."
+          "name": "Diseño de expansión equilibrado",
+          "bestFor": "Progreso de mitad de juego",
+          "setup": "Expande la base sección por sección y coloca torretas en el nuevo espacio utilizable antes de comprar otra expansión.",
+          "upgradeFocus": "Mantén activo el grupo original de torretas mejoradas mientras añades nuevas torretas a su alrededor.",
+          "nextStep": "Reemplaza las torretas débiles con tiradas más raras sin eliminar demasiado daño activo a la vez."
         },
         {
-          "name": "Reemplaza las torretas débiles con tiradas más raras sin eliminar demasiado daño activo a la vez.",
-          "bestFor": "Diseño de recolección AFK",
-          "setup": "Ingresos sin conexión",
-          "upgradeFocus": "Llena los espacios útiles disponibles con tu configuración de torretas más fuerte y completa las mejoras antes de desconectarte.",
-          "nextStep": "Prioriza un poder de recolección general estable en lugar de ahorrar toda la moneda para futuras tiradas."
+          "name": "Diseño de recolección AFK",
+          "bestFor": "Ingresos sin conexión",
+          "setup": "Llena los espacios útiles disponibles con tu configuración de torretas más fuerte y completa las mejoras antes de desconectarte.",
+          "upgradeFocus": "Prioriza un poder de recolección general estable en lugar de ahorrar toda la moneda para futuras tiradas.",
+          "nextStep": "Recoge las ganancias sin conexión al volver; luego mejora, expande o tira antes de la siguiente sesión AFK."
         },
         {
-          "name": "Recoge las ganancias sin conexión al volver; luego mejora, expande o tira antes de la siguiente sesión AFK.",
-          "bestFor": "Errores de diseño a evitar",
-          "setup": "Todas las etapas de progreso",
-          "upgradeFocus": "Evita comprar expansiones dejando espacios anteriores sin usar, no colocar torretas fuertes o gastar cada moneda en tiradas de rareza antes de construir un muro funcional.",
-          "nextStep": "No disperses la moneda en compras innecesarias cuando un grupo de torretas fiable puede mejorarse primero."
+          "name": "Errores de diseño a evitar",
+          "bestFor": "Todas las etapas de progreso",
+          "setup": "Evita comprar expansiones dejando espacios anteriores sin usar, no colocar torretas fuertes o gastar cada moneda en tiradas de rareza antes de construir un muro funcional.",
+          "upgradeFocus": "No disperses la moneda en compras innecesarias cuando un grupo de torretas fiable puede mejorarse primero.",
+          "nextStep": "Revisa el diseño después de cada expansión importante o tirada de torreta fuerte."
         }
       ]
     },
     "zombieTurretFarmAFKFarmingGuide": {
-      "title": "Revisa el diseño después de cada expansión importante o tirada de torreta fuerte.",
-      "eyebrow": "Recolección AFK y sin conexión en Zombie Turret Farm",
-      "subtitle": "PROGRESO SIN CONEXIÓN",
-      "displayType": "Prepara tu muro de torretas antes de irte para que la base pueda seguir generando progreso útil mientras estás sin conexión.",
+      "title": "Recolección AFK y sin conexión en Zombie Turret Farm",
+      "eyebrow": "PROGRESO SIN CONEXIÓN",
+      "subtitle": "Prepara tu muro de torretas antes de irte para que la base pueda seguir generando progreso útil mientras estás sin conexión.",
+      "displayType": "comparison-table",
       "intro": "Zombie Turret Farm admite oficialmente el farmeo sin conexión, lo que significa que las torretas colocadas siguen funcionando después de cerrar sesión. La mejor rutina sin conexión es gastar los recursos disponibles, equipar torretas más fuertes y reclamar el salto de tiempo diario siempre que esté disponible.",
       "methods": [
         {
@@ -411,7 +411,7 @@
       "title": "Últimos cambios y características de Zombie Turret Farm",
       "eyebrow": "ACTUALIZACIONES DEL JUEGO",
       "subtitle": "Revisa los sistemas de lanzamiento confirmados, las características de progresión, las recompensas sin conexión y los avisos de los desarrolladores.",
-      "displayType": "línea de tiempo",
+      "displayType": "timeline",
       "intro": "Zombie Turret Farm es un nuevo lanzamiento de Roblox de BrainRot Zombies Inc. Su versión actual se centra en el farmeo automatizado de zombies, mejoras de torretas, expansión de base, tiradas de rareza, progresión sin conexión y una recompensa diaria basada en la comunidad.",
       "entries": [
         {

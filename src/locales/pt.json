@@ -144,7 +144,7 @@
       "title": "Guia de Iniciante de Zombie Turret Farm",
       "eyebrow": "COMECE AQUI",
       "subtitle": "Construa sua primeira parede de torretas, ganhe dinheiro com os zumbis e expanda sem desacelerar sua progressão.",
-      "displayType": "passos",
+      "displayType": "steps",
       "intro": "O ciclo principal é simples: posicione torretas, derrote os zumbis que se aproximam, colete os lucros e reinvista em defesas mais fortes. As torretas continuam farmando enquanto você está desconectado, então uma parede equilibrada de unidades melhoradas garante progresso tanto ativo quanto offline.",
       "steps": [
         {
@@ -327,47 +327,47 @@
       ]
     },
     "zombieTurretFarmBestBaseLayout": {
-      "title": "A recompensa adiciona progressão sem exigir outra sessão de farm normal.",
-      "eyebrow": "Melhores Layouts de Base de Zombie Turret Farm",
-      "subtitle": "CONSTRUÇÃO DE BASE",
-      "displayType": "Organize seu muro de torres em torno de uma cobertura consistente, melhorias eficientes e expansão controlada.",
-      "intro": "layout-cards",
+      "title": "Melhores Layouts de Base de Zombie Turret Farm",
+      "eyebrow": "CONSTRUÇÃO DE BASE",
+      "subtitle": "Organize seu muro de torres em torno de uma cobertura consistente, melhorias eficientes e expansão controlada.",
+      "displayType": "layout-cards",
+      "intro": "O jogo gira em torno de construir um muro de torres que farma automaticamente os zumbis que chegam. Um layout útil mantém os espaços de torres ativos preenchidos, concentra as melhorias em defesas produtivas e evita expandir mais rápido do que sua renda pode sustentar.",
       "layouts": [
         {
-          "name": "O jogo gira em torno de construir um muro de torres que farma automaticamente os zumbis que chegam. Um layout útil mantém os espaços de torres ativos preenchidos, concentra as melhorias em defesas produtivas e evita expandir mais rápido do que sua renda pode sustentar.",
-          "bestFor": "Muro de Torres Inicial",
-          "setup": "Novos jogadores",
-          "upgradeFocus": "Crie um grupo contínuo de torres cobrindo a rota dos zumbis em vez de deixar grandes lacunas entre as defesas ativas.",
-          "nextStep": "Fortaleça as torres que já estão causando dano antes de aumentar o tamanho da base."
+          "name": "Muro de Torres Inicial",
+          "bestFor": "Novos jogadores",
+          "setup": "Crie um grupo contínuo de torres cobrindo a rota dos zumbis em vez de deixar grandes lacunas entre as defesas ativas.",
+          "upgradeFocus": "Fortaleça as torres que já estão causando dano antes de aumentar o tamanho da base.",
+          "nextStep": "Comece a girar para obter substituições mais fortes depois que o muro produzir uma renda estável."
         },
         {
-          "name": "Comece a girar para obter substituições mais fortes depois que o muro produzir uma renda estável.",
-          "bestFor": "Layout de Expansão Equilibrada",
-          "setup": "Progressão de meio de jogo",
-          "upgradeFocus": "Expanda a base uma seção por vez e coloque as torres no novo espaço utilizável antes de comprar outra expansão.",
-          "nextStep": "Mantenha o grupo original de torres melhoradas ativo enquanto adiciona novas torres ao redor dele."
+          "name": "Layout de Expansão Equilibrada",
+          "bestFor": "Progressão de meio de jogo",
+          "setup": "Expanda a base uma seção por vez e coloque as torres no novo espaço utilizável antes de comprar outra expansão.",
+          "upgradeFocus": "Mantenha o grupo original de torres melhoradas ativo enquanto adiciona novas torres ao redor dele.",
+          "nextStep": "Substitua torres mais fracas por giros mais raros sem remover muito dano ativo de uma só vez."
         },
         {
-          "name": "Substitua torres mais fracas por giros mais raros sem remover muito dano ativo de uma só vez.",
-          "bestFor": "Layout de Farm AFK",
-          "setup": "Renda offline",
-          "upgradeFocus": "Preencha os espaços úteis disponíveis com sua configuração de torres mais forte e complete as melhorias antes de sair.",
-          "nextStep": "Priorize um poder de farm geral estável em vez de economizar toda a moeda para giros futuros."
+          "name": "Layout de Farm AFK",
+          "bestFor": "Renda offline",
+          "setup": "Preencha os espaços úteis disponíveis com sua configuração de torres mais forte e complete as melhorias antes de sair.",
+          "upgradeFocus": "Priorize um poder de farm geral estável em vez de economizar toda a moeda para giros futuros.",
+          "nextStep": "Colete os ganhos offline ao retornar, depois melhore, expanda ou gire antes da próxima sessão AFK."
         },
         {
-          "name": "Colete os ganhos offline ao retornar, depois melhore, expanda ou gire antes da próxima sessão AFK.",
-          "bestFor": "Erros de Layout a Evitar",
-          "setup": "Todos os estágios de progressão",
-          "upgradeFocus": "Evite comprar expansões enquanto deixa espaços anteriores sem uso, mantendo torres mais fortes guardadas ou gastando cada moeda em giros de raridade antes de construir um muro funcional.",
-          "nextStep": "Não espalhe sua moeda em compras desnecessárias quando um grupo de torres confiável pode ser melhorado primeiro."
+          "name": "Erros de Layout a Evitar",
+          "bestFor": "Todos os estágios de progressão",
+          "setup": "Evite comprar expansões enquanto deixa espaços anteriores sem uso, mantendo torres mais fortes guardadas ou gastando cada moeda em giros de raridade antes de construir um muro funcional.",
+          "upgradeFocus": "Não espalhe sua moeda em compras desnecessárias quando um grupo de torres confiável pode ser melhorado primeiro.",
+          "nextStep": "Revise o layout após cada expansão importante ou giro de torre mais forte."
         }
       ]
     },
     "zombieTurretFarmAFKFarmingGuide": {
-      "title": "Revise o layout após cada expansão importante ou giro de torre mais forte.",
-      "eyebrow": "Farm AFK e Offline em Zombie Turret Farm",
-      "subtitle": "PROGRESSO OFFLINE",
-      "displayType": "Prepare seu muro de torres antes de sair para que a base possa continuar gerando progresso útil enquanto você estiver offline.",
+      "title": "Farm AFK e Offline em Zombie Turret Farm",
+      "eyebrow": "PROGRESSO OFFLINE",
+      "subtitle": "Prepare seu muro de torres antes de sair para que a base possa continuar gerando progresso útil enquanto você estiver offline.",
+      "displayType": "comparison-table",
       "intro": "O Zombie Turret Farm oficialmente suporta o farm offline, o que significa que as torres posicionadas continuam funcionando após você sair. A melhor rotina offline é gastar os recursos disponíveis, equipar torres mais fortes e resgatar o salto de tempo diário sempre que estiver disponível.",
       "methods": [
         {
@@ -411,7 +411,7 @@
       "title": "Últimas Mudanças e Recursos do Zombie Turret Farm",
       "eyebrow": "ATUALIZAÇÕES DO JOGO",
       "subtitle": "Revise os sistemas de lançamento confirmados, recursos de progressão, recompensas offline e avisos dos desenvolvedores.",
-      "displayType": "linha do tempo",
+      "displayType": "timeline",
       "intro": "Zombie Turret Farm é um novo lançamento no Roblox da BrainRot Zombies Inc. Sua versão atual foca em farm automatizado de zumbis, melhorias de torres, expansão de base, giros de raridade, progressão offline e uma recompensa diária baseada na comunidade.",
       "entries": [
         {
